@@ -2,7 +2,7 @@
   {
     "app_id": "link2xt-count",
     "tag_name": "v1",
-    "url": "https://codeberg.org/link2xt/count.xdc/releases/download/v1/count.xdc",
+    "url": "https://codeberg.org/link2xt/count.xdc/releases/download/latest/count.xdc",
     "date": "2024-11-02T18:48:37+01:00",
     "description": "Chatters cannot count\nLearn to count together with your friends.",
     "source_code_url": "https://codeberg.org/link2xt/count.xdc/",
@@ -15,7 +15,7 @@
   {
     "app_id": "nelson9608-calculator-xdc",
     "tag_name": "V1.0.0",
-    "url": "https://github.com/nelson9608/Calculator-xdc/releases/download/V1.0.0/Calculator-2.xdc",
+    "url": "https://github.com/nelson9608/Calculator-xdc/releases/latest/download/Calculator-2.xdc",
     "date": "2023-08-26T05:20:39Z",
     "description": "Simple Calculator\nUse this simple calculator app without needing to install extra apps on your phone.\nYou can save the app in the \"Saved Messages\" chat and create a shortcut in your home\nscreen to use it as any normal installed app.",
     "source_code_url": "https://github.com/nelson9608/Calculator-xdc",
@@ -28,7 +28,7 @@
   {
     "app_id": "webratte-event-countdown",
     "tag_name": "v1.1.1",
-    "url": "https://github.com/webratte/Event-Countdown/releases/download/v1.1.1/Event-Countdown.xdc",
+    "url": "https://github.com/webratte/Event-Countdown/releases/latest/download/Event-Countdown.xdc",
     "date": "2023-10-29T15:05:54Z",
     "description": "Event-Countdown\nWith Event Countdown you count down the days until an important event.\nTrack up to 6 appointments. Share your enthusiasm with all group members\nwith just one click or simply make them jealous \ud83d\ude1c",
     "source_code_url": "https://github.com/webratte/Event-Countdown",
@@ -41,7 +41,7 @@
   {
     "app_id": "webratte-i-got-time",
     "tag_name": "v1.0.1",
-    "url": "https://github.com/webratte/I-got-time/releases/download/v1.0.1/I-got-time.xdc",
+    "url": "https://github.com/webratte/I-got-time/releases/latest/download/I-got-time.xdc",
     "date": "2023-11-17T14:37:11Z",
     "description": "Appointment planning\nWith this tool you can make an appointment query with just a few clicks.\nThis will help you find the most suitable date for your project.\nA simple rating makes it easy for you to select an appointment.",
     "source_code_url": "https://github.com/webratte/I-got-time",
@@ -54,7 +54,7 @@
   {
     "app_id": "webratte-shared-memo",
     "tag_name": "v2.1",
-    "url": "https://github.com/webratte/Shared-Memo/releases/download/v2.1/Memo.xdc",
+    "url": "https://github.com/webratte/Shared-Memo/releases/latest/download/Memo.xdc",
     "date": "2023-11-14T13:10:15Z",
     "description": "Sticky Notes\nUse this collaborative memo in groups, to keep all relevant data in a central\nplace without much scrolling. Or use it in \"saved messages\" to have your memos\navailable all over your devices.",
     "source_code_url": "https://github.com/webratte/Shared-Memo",
@@ -67,7 +67,7 @@
   {
     "app_id": "webxdc-calendar",
     "tag_name": "v2.0.0",
-    "url": "https://codeberg.org/webxdc/calendar/releases/download/v2.0.0/app.xdc",
+    "url": "https://codeberg.org/webxdc/calendar/releases/download/latest/app.xdc",
     "date": "2026-03-30T13:30:02+02:00",
     "description": "Mobile-friendly calendar app\nManage events collaboratively with other chat members.\nYou can import/export events or invites",
     "source_code_url": "https://codeberg.org/webxdc/calendar",
@@ -80,7 +80,7 @@
   {
     "app_id": "webxdc-checklist",
     "tag_name": "v0.0.3",
-    "url": "https://codeberg.org/webxdc/checklist/releases/download/v0.0.3/checklist.xdc",
+    "url": "https://codeberg.org/webxdc/checklist/releases/download/latest/checklist.xdc",
     "date": "2023-09-15T16:38:17+02:00",
     "description": "Create & track items jointly\nAnyone may create named checklist items and mark them as resolved.\nGreat for planning a trip, party or shopping.\nLists can be exported and imported.",
     "source_code_url": "https://codeberg.org/webxdc/checklist",
@@ -93,7 +93,7 @@
   {
     "app_id": "webxdc-clocksync",
     "tag_name": "v1",
-    "url": "https://codeberg.org/webxdc/clock-sync/releases/download/v1/clock-sync.xdc",
+    "url": "https://codeberg.org/webxdc/clock-sync/releases/download/latest/clock-sync.xdc",
     "date": "2024-11-16T22:22:40+01:00",
     "description": "Clock sync\nClock synchronization using realtime channels.",
     "source_code_url": "https://codeberg.org/webxdc/clock-sync",
@@ -106,7 +106,7 @@
   {
     "app_id": "webxdc-corkboard",
     "tag_name": "v0.0.2",
-    "url": "https://codeberg.org/webxdc/corkboard/releases/download/v0.0.2/corkboard.xdc",
+    "url": "https://codeberg.org/webxdc/corkboard/releases/download/latest/corkboard.xdc",
     "date": "2023-07-07T20:10:38+02:00",
     "description": "Cork board app (Demo)\nThis is a working example app to create per-participant\nlists of items which can be updated and deleted from\nthe respective creator",
     "source_code_url": "https://codeberg.org/webxdc/corkboard",
@@ -119,7 +119,7 @@
   {
     "app_id": "webxdc-editor",
     "tag_name": "v3.2.0",
-    "url": "https://codeberg.org/webxdc/editor/releases/download/v3.2.0/editor.xdc",
+    "url": "https://codeberg.org/webxdc/editor/releases/download/latest/editor.xdc",
     "date": "2024-12-11T14:01:15+01:00",
     "description": "WYSIWYG editor\nAn editor that can be used to work collaboratively on shared documents.\nThe editor offers headlines, lists, block quotes, bold, italics and more.\nTexts can be exported and send as .txt files.",
     "source_code_url": "https://codeberg.org/webxdc/editor",
@@ -132,7 +132,7 @@
   {
     "app_id": "webxdc-pixel",
     "tag_name": "v2",
-    "url": "https://codeberg.org/webxdc/pixel/releases/download/v2/pixel.xdc",
+    "url": "https://codeberg.org/webxdc/pixel/releases/download/latest/pixel.xdc",
     "date": "2024-11-20T17:56:45+01:00",
     "description": "Pixel graphics editor\nCollaborative editor for 1-bit pixel graphics.",
     "source_code_url": "https://codeberg.org/webxdc/pixel",
@@ -145,7 +145,7 @@
   {
     "app_id": "webxdc-poll",
     "tag_name": "1.0.2",
-    "url": "https://codeberg.org/webxdc/poll/releases/download/1.0.2/poll.xdc",
+    "url": "https://codeberg.org/webxdc/poll/releases/download/latest/poll.xdc",
     "date": "2025-04-12T01:03:37+02:00",
     "description": "Simple poll app\nOne question, several predefined answers for people to vote on.",
     "source_code_url": "https://codeberg.org/webxdc/poll",
@@ -158,7 +158,7 @@
   {
     "app_id": "webxdc-pong",
     "tag_name": "v4",
-    "url": "https://codeberg.org/webxdc/pong/releases/download/v4/pong.xdc",
+    "url": "https://codeberg.org/webxdc/pong/releases/download/latest/pong.xdc",
     "date": "2024-11-17T04:34:46+01:00",
     "description": "Table tennis\nPlay realtime classic \"pong\" game with one other player.",
     "source_code_url": "https://codeberg.org/webxdc/pong",
@@ -171,7 +171,7 @@
   {
     "app_id": "webxdc-realtime-check",
     "tag_name": "v1.0.6",
-    "url": "https://github.com/webxdc/webxdc-realtime-check/releases/download/v1.0.6/app.xdc",
+    "url": "https://github.com/webxdc/webxdc-realtime-check/releases/latest/download/app.xdc",
     "date": "2024-12-03T14:24:33Z",
     "description": "Webxdc Realtime Check\nDemonstrate and debug the realtime-channels feature.\n\ud83c\udfd3 Shows ping time of each connection between online peers in a graph view",
     "source_code_url": "https://github.com/webxdc/webxdc-realtime-check",
@@ -184,7 +184,7 @@
   {
     "app_id": "webxdc-test",
     "tag_name": "1.5.0",
-    "url": "https://github.com/webxdc/webxdc-test/releases/download/1.5.0/webxdc-test.xdc",
+    "url": "https://github.com/webxdc/webxdc-test/releases/latest/download/webxdc-test.xdc",
     "date": "2025-11-23T19:22:11Z",
     "description": "Webxdc test tool\nDeveloper tool. Run this tool to understand which HTML/JS features are available\nfor developing webxdc apps",
     "source_code_url": "https://github.com/webxdc/webxdc-test",
@@ -197,7 +197,7 @@
   {
     "app_id": "arcanecircle-amazingtrack",
     "tag_name": "v0.1.0",
-    "url": "https://github.com/ArcaneCircle/AmazingTrack/releases/download/v0.1.0/AmazingTrack.xdc",
+    "url": "https://github.com/ArcaneCircle/AmazingTrack/releases/latest/download/AmazingTrack.xdc",
     "date": "2023-09-13T11:32:46Z",
     "description": "ZigZag-like arcade game\nAmazingTrack is a single player ZigZag-like endless arcade game.\nTap the screen to change the movement direction and try to stay on the track\nas long as you can.",
     "source_code_url": "https://github.com/ArcaneCircle/AmazingTrack",
@@ -210,7 +210,7 @@
   {
     "app_id": "arcanecircle-arkanoid",
     "tag_name": "v3.10.0",
-    "url": "https://github.com/ArcaneCircle/arkanoid/releases/download/v3.10.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/arkanoid/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:37:26Z",
     "description": "Brick-breaker game\nA brick-breaker game inspired on the classic Arkanoid game",
     "source_code_url": "https://github.com/ArcaneCircle/arkanoid",
@@ -223,7 +223,7 @@
   {
     "app_id": "arcanecircle-audiodash",
     "tag_name": "v1.1.0",
-    "url": "https://github.com/ArcaneCircle/AudioDash/releases/download/v1.1.0/AudioDash.xdc",
+    "url": "https://github.com/ArcaneCircle/AudioDash/releases/latest/download/AudioDash.xdc",
     "date": "2024-12-13T18:39:29Z",
     "description": "Play the wave!\nRide the waveform of your music library while avoiding waves.\nPlay the provided song or upload your own.",
     "source_code_url": "https://github.com/ArcaneCircle/AudioDash",
@@ -236,7 +236,7 @@
   {
     "app_id": "arcanecircle-back-up",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/back-up/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/back-up/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:42:06Z",
     "description": "Infinite climber game\nHelp the egg get back up the tree.\nTo charge up, tap the screen or hold any key, then release to jump",
     "source_code_url": "https://github.com/ArcaneCircle/back-up",
@@ -249,7 +249,7 @@
   {
     "app_id": "arcanecircle-backread",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/BackRead/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/BackRead/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:41:26Z",
     "description": "Reverse-reading game\nChallenge your brain in this reverse-reading game!\nYour objective is to reach the highest score possible, by reading the reverse-texts\nand deciphering them, before the time is up.\nAnswering a question correctly gives you some extra time. On the other hand, wrong answers\npenalize you reducing your remaining time.\nCompete with friends in group chats with the in-game scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/BackRead",
@@ -262,7 +262,7 @@
   {
     "app_id": "arcanecircle-bejeweled",
     "tag_name": "v1.4.0",
-    "url": "https://github.com/ArcaneCircle/bejeweled/releases/download/v1.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/bejeweled/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:50:47Z",
     "description": "Match 3 or more gems\nInspired by the classic Bejeweled game.\nYou can compete with other chat members for the top of the scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/bejeweled",
@@ -275,7 +275,7 @@
   {
     "app_id": "arcanecircle-c4",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/c4/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/c4/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:53:31Z",
     "description": "Connect 4 board game\nA clone of the classic Connect Four board game.\nA two players board game, the game can be observed by all chat members",
     "source_code_url": "https://github.com/ArcaneCircle/c4",
@@ -288,7 +288,7 @@
   {
     "app_id": "arcanecircle-casual-crusade",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/casual-crusade/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/casual-crusade/releases/latest/download/app.xdc",
     "date": "2024-12-13T18:54:23Z",
     "description": "Logic puzzle game\nUse your deck of tiles to build a path covering all the lands spreading the good word\nwhile also pillaging some rewards as additions to your deck or sometimes even blessing\nyou with some powerful abilities",
     "source_code_url": "https://github.com/ArcaneCircle/casual-crusade",
@@ -301,7 +301,7 @@
   {
     "app_id": "arcanecircle-chess",
     "tag_name": "v2.4.0",
-    "url": "https://github.com/ArcaneCircle/chess/releases/download/v2.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/chess/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:00:23Z",
     "description": "Classic chess game\nClassic chess board game for two players and many observers",
     "source_code_url": "https://github.com/ArcaneCircle/chess",
@@ -314,7 +314,7 @@
   {
     "app_id": "arcanecircle-color-lines",
     "tag_name": "v3.2.0",
-    "url": "https://github.com/ArcaneCircle/color-lines/releases/download/v3.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/color-lines/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:07:30Z",
     "description": "Color Lines clone\nClone of the Color Lines (a.k.a. WinLines or WinLinez) game.\nYou can compete with other chat members for the top of the scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/color-lines",
@@ -327,7 +327,7 @@
   {
     "app_id": "arcanecircle-coloron",
     "tag_name": "v0.3.0",
-    "url": "https://github.com/ArcaneCircle/coloron/releases/download/v0.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/coloron/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:10:02Z",
     "description": "Color bouncing ball\nMake the bouncing ball land in the platforms of the same color",
     "source_code_url": "https://github.com/ArcaneCircle/coloron",
@@ -340,7 +340,7 @@
   {
     "app_id": "arcanecircle-coupahoo",
     "tag_name": "v0.3.0",
-    "url": "https://github.com/ArcaneCircle/coup-ahoo/releases/download/v0.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/coup-ahoo/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:26:31Z",
     "description": "Pirates cannon fighting game\nYou're finally fed up with your fleet and their incompetence. Take down all of them and claim your spot at the top. Along the way, you'll discover precious cargo dice that represent your ship's vitality and firepower. You may also encounter friendly merchants, carpenters, and potential crew members.\nBe careful not to let your cargo's total value reach the dreaded number: 13, as even rolling that in combat can have unfavorable consequences",
     "source_code_url": "https://github.com/ArcaneCircle/coup-ahoo",
@@ -353,7 +353,7 @@
   {
     "app_id": "arcanecircle-crappybird",
     "tag_name": "v1.5.0",
-    "url": "https://github.com/ArcaneCircle/CrappyBird/releases/download/v1.5.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/CrappyBird/releases/latest/download/app.xdc",
     "date": "2024-12-14T19:19:33Z",
     "description": "Flappy Bird clone\nHelp a little bird to fly avoiding the pipes",
     "source_code_url": "https://github.com/ArcaneCircle/CrappyBird",
@@ -366,7 +366,7 @@
   {
     "app_id": "arcanecircle-dino",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/Dino/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/Dino/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:28:43Z",
     "description": "Dinosaur arcade game\nA pixelated dinosaur dodges cacti and pterodactyls as it runs across a desolate landscape.\nTouch the screen or press space to jump over obstacles.\nCompete with others for the top of the scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/Dino",
@@ -379,7 +379,7 @@
   {
     "app_id": "arcanecircle-forgottendepths",
     "tag_name": "v1.4.0",
-    "url": "https://github.com/ArcaneCircle/ForgottenDepths/releases/download/v1.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/ForgottenDepths/releases/latest/download/app.xdc",
     "date": "2024-12-14T19:29:12Z",
     "description": "Path of the Necromancer\n\"Forgotten Depths: Path of the Necromancer\" is a simplified roguelite,\ndeck building game where you will craft cards, and customized your deck\nto take on the undead and their masters.\nIf you are in a mobile device, switch to landscape mode to play the game.\nThis game is a port to WebXDC of the original Forgotten Depths game by\nDavid Brad, licensed under CC-BY-NC-SA-4.0",
     "source_code_url": "https://github.com/ArcaneCircle/ForgottenDepths",
@@ -392,7 +392,7 @@
   {
     "app_id": "arcanecircle-fspider",
     "tag_name": "v1.4.0",
-    "url": "https://github.com/ArcaneCircle/fSpider/releases/download/v1.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/fSpider/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:30:38Z",
     "description": "Spider Solitaire clone\nSpider Solitaire clone, a captivating and addictive card game that brings the classic\nSpider Solitaire experience to your fingertips.",
     "source_code_url": "https://github.com/ArcaneCircle/fSpider",
@@ -405,7 +405,7 @@
   {
     "app_id": "arcanecircle-gibbonacci",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/gibbonacci/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/gibbonacci/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:50:07Z",
     "description": "Idle game\nGibbonacci is an idle/incremental game about you getting a bunch of monkeys to check numbers\nfor you to find all that belong to Fibonacci sequence. Why? Only you know the answer to that...\nThe original game was created by Martin Tale: https://github.com/MartinTale/gibbonacci",
     "source_code_url": "https://github.com/ArcaneCircle/gibbonacci",
@@ -418,7 +418,7 @@
   {
     "app_id": "arcanecircle-knight-arena",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/knight-arena/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/knight-arena/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:50:47Z",
     "description": "Simple rogue-like game\nA simple random room generated rogue-like game where you combine different weapons\nwith unique attack patterns against enemies.\nProve yourself worthy of being called a knight and see how far you can go!",
     "source_code_url": "https://github.com/ArcaneCircle/knight-arena",
@@ -431,7 +431,7 @@
   {
     "app_id": "arcanecircle-livechat",
     "tag_name": "v0.5.0",
-    "url": "https://github.com/ArcaneCircle/live-chat/releases/download/v0.5.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/live-chat/releases/latest/download/app.xdc",
     "date": "2024-12-13T19:55:36Z",
     "description": "Real-time conversations\nWith this app you can have real-time ephemeral threads/discussions inside your\nchats, ideal for off-topic discussions without disturbing other members of the group.\nSee who is online, \"typing...\" indicators and real-time message delivery,\nideal for fast-paced IRC/Slack-like conversations.\nTips: type /nick command in the input field to change nick,\n/topic to change the thread topic",
     "source_code_url": "https://github.com/ArcaneCircle/live-chat",
@@ -444,7 +444,7 @@
   {
     "app_id": "arcanecircle-mah",
     "tag_name": "v1.7.0",
-    "url": "https://github.com/ArcaneCircle/mah/releases/download/v1.7.0/mah.xdc",
+    "url": "https://github.com/ArcaneCircle/mah/releases/latest/download/mah.xdc",
     "date": "2024-12-13T20:06:06Z",
     "description": "Single-player matching game\nEnjoy several board types, random game generation, hints, undo movements, track your best times\nand more with this classic Mahjong Solitaire game",
     "source_code_url": "https://github.com/ArcaneCircle/mah",
@@ -457,7 +457,7 @@
   {
     "app_id": "arcanecircle-mood",
     "tag_name": "v0.2.0",
-    "url": "https://github.com/ArcaneCircle/mood/releases/download/v0.2.0/mood.xdc",
+    "url": "https://github.com/ArcaneCircle/mood/releases/latest/download/mood.xdc",
     "date": "2024-12-13T20:05:44Z",
     "description": "Share your mood\nJust send the app once in a private chat or group and then you can use it every time to share\nyour mood. Let your friends know how do you feel \u2728",
     "source_code_url": "https://github.com/ArcaneCircle/mood",
@@ -470,7 +470,7 @@
   {
     "app_id": "arcanecircle-musasquest",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/MusasQuest/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/MusasQuest/releases/latest/download/app.xdc",
     "date": "2025-04-26T19:13:36Z",
     "description": "Musa's Quest\nMusa's Quest: A Gift From Faraway. A medieval adventure about the search for an exotic gift.\nWorks on desktop and mobile, too. Just keep the finger on the screen to explore a scene.",
     "source_code_url": "https://github.com/ArcaneCircle/MusasQuest",
@@ -483,7 +483,7 @@
   {
     "app_id": "arcanecircle-necroticcommander",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/NecroticCommander/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/NecroticCommander/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:07:34Z",
     "description": "Tower defense game\nYou are the Necrotic Commander! An ancient master of death and decay,\nwith the power to reanimate the dead to do your bidding.\nDespite your warnings, the local peasantry seek to dethrone you. Using your dark arts,\ndestroy their pitiful uprising, and send them to their graves!",
     "source_code_url": "https://github.com/ArcaneCircle/NecroticCommander",
@@ -496,7 +496,7 @@
   {
     "app_id": "arcanecircle-numberknight",
     "tag_name": "v0.3.0",
-    "url": "https://github.com/ArcaneCircle/NumberKnight/releases/download/v0.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/NumberKnight/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:08:05Z",
     "description": "Logic puzzle game\nKill monsters and absorb their power to become more and more powerful!\nBut beware, you'll soon discover fire, water or plant monsters, and your attacks will have\nto be a little more tactical...",
     "source_code_url": "https://github.com/ArcaneCircle/NumberKnight",
@@ -509,7 +509,7 @@
   {
     "app_id": "arcanecircle-othello",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/Othello/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/Othello/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:10:37Z",
     "description": "Othello board game\nA clone of the classic Othello/Reversi board game for two players and many observers.\nCan be played in real-time",
     "source_code_url": "https://github.com/ArcaneCircle/Othello",
@@ -522,7 +522,7 @@
   {
     "app_id": "arcanecircle-pixel",
     "tag_name": "v0.5.0",
-    "url": "https://github.com/ArcaneCircle/pixel/releases/download/v0.5.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/pixel/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:12:37Z",
     "description": "Collaborative pixel-art editor\nSimilar to the existing Pixel app but every user will draw using their own color",
     "source_code_url": "https://github.com/ArcaneCircle/pixel",
@@ -535,7 +535,7 @@
   {
     "app_id": "arcanecircle-pixelrickroll",
     "tag_name": "v0.4.0",
-    "url": "https://github.com/ArcaneCircle/pixel-rickroll/releases/download/v0.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/pixel-rickroll/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:15:08Z",
     "description": "Rick-roll disguised as a game\nJust a small prank app to rick-roll your friends, if you don't know what that is, search for \"Rickrolling\" in Wikipedia",
     "source_code_url": "https://github.com/ArcaneCircle/pixel-rickroll",
@@ -548,7 +548,7 @@
   {
     "app_id": "arcanecircle-power-crisis",
     "tag_name": "v0.4.0",
-    "url": "https://github.com/ArcaneCircle/power-crisis/releases/download/v0.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/power-crisis/releases/latest/download/app.xdc",
     "date": "2024-12-14T19:43:59Z",
     "description": "A monopoly-like card game\nUse cards to build power plants strategically and manage power, resources, and pollution wisely.\nCan you navigate the crisis and lead the city to survival?",
     "source_code_url": "https://github.com/ArcaneCircle/power-crisis",
@@ -561,7 +561,7 @@
   {
     "app_id": "arcanecircle-rainbow",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/rainbow/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/rainbow/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:16:27Z",
     "description": "Color Picker Game\nTest your brain abilities to think fast and select the correct color\nand compete with others for the top of the scoreboard",
     "source_code_url": "https://github.com/ArcaneCircle/rainbow",
@@ -574,7 +574,7 @@
   {
     "app_id": "arcanecircle-runekeeper",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/runekeeper/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/runekeeper/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:17:47Z",
     "description": "Cast spells by drawing runes\nRunekeeper is a turn-based strategy game where you play as a mage defending your lil' tower.\nDraw (mouse or touch) symbols seen along the grid to command the Runestone to move.\nUse the left half of screen to move up and down.\nUse the right half of screen to move left and right.\nPassing through a power-up orb will cast a spell when landing.\nThe power-up color dictates spell type.\nThe power-up shape dictates the attack pattern.\nDefeat as many enemies as possible. Good luck!",
     "source_code_url": "https://github.com/ArcaneCircle/runekeeper",
@@ -587,7 +587,7 @@
   {
     "app_id": "arcanecircle-sector13",
     "tag_name": "v0.3.0",
-    "url": "https://github.com/ArcaneCircle/sector-13/releases/download/v0.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/sector-13/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:22:16Z",
     "description": "Hectic space shooter game\nSmall hectic space shooter with retro graphics. Touch/Click and drag to move your ship",
     "source_code_url": "https://github.com/ArcaneCircle/sector-13",
@@ -600,7 +600,7 @@
   {
     "app_id": "arcanecircle-snake",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/snake/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/snake/releases/latest/download/app.xdc",
     "date": "2024-12-14T19:47:52Z",
     "description": "Snake clone\nHelp the snake eat and grow, but be careful not to bite yourself!",
     "source_code_url": "https://github.com/ArcaneCircle/snake",
@@ -613,7 +613,7 @@
   {
     "app_id": "arcanecircle-spirit-dungeons",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/spirit-dungeons/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/spirit-dungeons/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:32:17Z",
     "description": "Incremental idle game\nIncremental idle game with progress even when the game is closed!\nFollow the story of a necromancer who has just lost the great war and is ready to rebuild his\narmies and fight again. In the process, he finds his conscience and is changing his life\nto become a righteous necromancer.\nYou will build your willing dead army to attack ever-stronger waves of enemies!\nWisely choose skills and attributes to aid your progress to get all trophies",
     "source_code_url": "https://github.com/ArcaneCircle/spirit-dungeons",
@@ -626,7 +626,7 @@
   {
     "app_id": "arcanecircle-stolen-sword",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/stolen-sword/releases/download/v1.3.0/stolen-sword.xdc",
+    "url": "https://github.com/ArcaneCircle/stolen-sword/releases/latest/download/stolen-sword.xdc",
     "date": "2024-12-14T19:10:21Z",
     "description": "One finger platform game\nA sword used to suppress the evil force was stolen, releasing a lot of demons. Find the theft and beat the demons!\nDrag to aim and release to jump and slash through enemies",
     "source_code_url": "https://github.com/ArcaneCircle/stolen-sword",
@@ -639,7 +639,7 @@
   {
     "app_id": "arcanecircle-sudoku",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/sudoku/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/sudoku/releases/latest/download/app.xdc",
     "date": "2024-12-14T19:58:11Z",
     "description": "Classic Sudoku puzzle\nSolve countless number of Sudoku puzzles and compete\nwith other chat members for the top of the scoreboard",
     "source_code_url": "https://github.com/ArcaneCircle/sudoku",
@@ -652,7 +652,7 @@
   {
     "app_id": "arcanecircle-super-bunny",
     "tag_name": "v0.12.0",
-    "url": "https://github.com/ArcaneCircle/super-bunny/releases/download/v0.12.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/super-bunny/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:36:58Z",
     "description": "Help Kitty to find Bunny\nJourney through dark forests and snowy meadows,\npass through a great waterfall to finally reach the steppes and confront the Lion King!\nClear the game to unlock Super Bunny and then hop with him at increased difficulty",
     "source_code_url": "https://github.com/ArcaneCircle/super-bunny",
@@ -665,7 +665,7 @@
   {
     "app_id": "arcanecircle-super-castle",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/super-castle/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/super-castle/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:49:30Z",
     "description": "Logic puzzle game\nThis is a game about building a castle. Magnificent and eternal,\nthe fortress of the mind will rise \u2014 and it begins with a single block.\nThe original game was written by Mark Vasilkov for js13kGames in 2023",
     "source_code_url": "https://github.com/ArcaneCircle/super-castle",
@@ -678,7 +678,7 @@
   {
     "app_id": "arcanecircle-takuzu",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/Takuzu/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/Takuzu/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:50:06Z",
     "description": "Logic puzzle game\nTakuzu is a little logic game.\nThe game concept is also known as Binairo.",
     "source_code_url": "https://github.com/ArcaneCircle/Takuzu",
@@ -691,7 +691,7 @@
   {
     "app_id": "arcanecircle-templarsfinalstand",
     "tag_name": "v0.4.0",
-    "url": "https://github.com/ArcaneCircle/Templar-s-Final-Stand/releases/download/v0.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/Templar-s-Final-Stand/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:52:06Z",
     "description": "Strategy fighting game\nInspired by 2048!\nThe King has sent his forces to hunt you down. As one of the last Knights Templar, it's a battle for survival!\nMove across the battlefield, take down enemies, and gather powerful items. But beware - if your total weight reaches 13, every step will cause damage",
     "source_code_url": "https://github.com/ArcaneCircle/Templar-s-Final-Stand",
@@ -704,7 +704,7 @@
   {
     "app_id": "arcanecircle-terraformers",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/terraformers/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/terraformers/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:53:29Z",
     "description": "Fast paced survival game\n2133 AD: Artificial Intelligence finally took your job,\nworried about not being able to pay rent for your sleep capsule,\nyou decided to get your hands dirty as a cleaner in a terraforming company,\nclearing planets from hostile live forms for a low wage.\nHow to play: Attacking is automatic, WASD/arrows/touch & drag to move, click/touch/space to use menus & select items",
     "source_code_url": "https://github.com/ArcaneCircle/terraformers",
@@ -717,7 +717,7 @@
   {
     "app_id": "arcanecircle-tetris",
     "tag_name": "v2.3.0",
-    "url": "https://github.com/ArcaneCircle/tetris/releases/download/v2.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/tetris/releases/latest/download/app.xdc",
     "date": "2025-11-04T21:04:52Z",
     "description": "Tetris clone\nClone of the classic Tetris game.\nFill horizontal lines to make them disappear and increase your score.\nYou can compete with other chat members for the top of the scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/tetris",
@@ -730,7 +730,7 @@
   {
     "app_id": "arcanecircle-textcards",
     "tag_name": "v0.6.0",
-    "url": "https://github.com/ArcaneCircle/TextCards/releases/download/v0.6.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/TextCards/releases/latest/download/app.xdc",
     "date": "2024-12-14T18:59:18Z",
     "description": "Create text cards\nCreate and share stylish text cards, send congratulations in a stunning way, make your message\nstandout in a noisy group, or any other situation where a boring plain text message is not enough",
     "source_code_url": "https://github.com/ArcaneCircle/TextCards",
@@ -743,7 +743,7 @@
   {
     "app_id": "arcanecircle-the-cube",
     "tag_name": "v1.3.0",
-    "url": "https://github.com/ArcaneCircle/the-cube/releases/download/v1.3.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/the-cube/releases/latest/download/app.xdc",
     "date": "2024-12-13T20:59:29Z",
     "description": "A Rubik's Cube Game\nRubik's Cube classic game. Swipe and drag to interact with the cube",
     "source_code_url": "https://github.com/ArcaneCircle/the-cube",
@@ -756,7 +756,7 @@
   {
     "app_id": "arcanecircle-tiny-yurts",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/tiny-yurts/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/tiny-yurts/releases/latest/download/app.xdc",
     "date": "2024-12-13T21:00:22Z",
     "description": "Little farm simulation game\nConnect the yurts to the farms!\nTap and drag to place paths and re-orient your yurts.\nPlaying in landscape mode is highly recommended on mobile.",
     "source_code_url": "https://github.com/ArcaneCircle/tiny-yurts",
@@ -769,7 +769,7 @@
   {
     "app_id": "arcanecircle-triska",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/Triska/releases/download/v2.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/Triska/releases/latest/download/app.xdc",
     "date": "2024-12-13T21:00:32Z",
     "description": "One finger concentrated fun\nHelp Unlucky, the ninja cat, to climb as high as possible.\nJump by tapping the phone screen or use the space-bar on desktop.\nCompete with others for the top of the scoreboard!",
     "source_code_url": "https://github.com/ArcaneCircle/Triska",
@@ -782,7 +782,7 @@
   {
     "app_id": "arcanecircle-whack-a-ninja",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/ArcaneCircle/whack-a-ninja/releases/download/v1.2.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/whack-a-ninja/releases/latest/download/app.xdc",
     "date": "2024-12-13T21:01:55Z",
     "description": "Whack-A-Mole clone\nAction game, click on the ninja to get points",
     "source_code_url": "https://github.com/ArcaneCircle/whack-a-ninja",
@@ -795,7 +795,7 @@
   {
     "app_id": "arcanecircle-wonster",
     "tag_name": "v3.3.0",
-    "url": "https://github.com/ArcaneCircle/wonster/releases/download/v3.3.0/wonster.xdc",
+    "url": "https://github.com/ArcaneCircle/wonster/releases/latest/download/wonster.xdc",
     "date": "2024-12-13T21:03:39Z",
     "description": "A daily word puzzle\nHumans used to fight monsters, but it turned out befriending them is way more practical.\nTo befriend a monster you must guess its favorite word (or perhaps the only human word they know)",
     "source_code_url": "https://github.com/ArcaneCircle/wonster",
@@ -808,7 +808,7 @@
   {
     "app_id": "r10s-pac-1d",
     "tag_name": "1.1.0",
-    "url": "https://codeberg.org/r10s/pac-1d/releases/download/1.1.0/pac-1d.xdc",
+    "url": "https://codeberg.org/r10s/pac-1d/releases/download/latest/pac-1d.xdc",
     "date": "2025-01-03T14:37:11+01:00",
     "description": "Pac-Man in 1D\nEat all the dots and beware of the ghosts, you got it.\nCompete with other players for the only highscore place - it is 1D also there!",
     "source_code_url": "https://codeberg.org/r10s/pac-1d",
@@ -821,7 +821,7 @@
   {
     "app_id": "arcanecircle-2048",
     "tag_name": "v2.4.0",
-    "url": "https://github.com/ArcaneCircle/2048/releases/download/v2.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/2048/releases/latest/download/app.xdc",
     "date": "2024-12-23T10:39:27Z",
     "description": "Join numbers to a 2048 tile\nThe classic 2048 puzzle game.\nMove tiles with the same number together and get a 2048 tile to win.\nHigh scores are shared with the chat members",
     "source_code_url": "https://github.com/ArcaneCircle/2048",
@@ -834,7 +834,7 @@
   {
     "app_id": "arcanecircle-draw",
     "tag_name": "v3.4.0",
-    "url": "https://github.com/ArcaneCircle/draw/releases/download/v3.4.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/draw/releases/latest/download/app.xdc",
     "date": "2024-12-23T13:04:45Z",
     "description": "Simple drawing board\nA little drawing board, create draws and share them with friends,\n\ud83c\udfa8 \ud83d\udd8c\ufe0f unlock your creativity!",
     "source_code_url": "https://github.com/ArcaneCircle/draw",
@@ -847,7 +847,7 @@
   {
     "app_id": "arcanecircle-stackup",
     "tag_name": "v1.3.1",
-    "url": "https://github.com/ArcaneCircle/StackUp/releases/download/v1.3.1/app.xdc",
+    "url": "https://github.com/ArcaneCircle/StackUp/releases/latest/download/app.xdc",
     "date": "2025-01-24T14:10:26Z",
     "description": "Stack your way up\nTry to place the blocks on top of each other as precisely as possible to build the highest tower!",
     "source_code_url": "https://github.com/ArcaneCircle/StackUp",
@@ -860,7 +860,7 @@
   {
     "app_id": "r10s-hextris",
     "tag_name": "1.4.0",
-    "url": "https://codeberg.org/r10s/hextris/releases/download/1.4.0/hextris.xdc",
+    "url": "https://codeberg.org/r10s/hextris/releases/download/latest/hextris.xdc",
     "date": "2025-01-02T23:32:34+01:00",
     "description": "Tetris with a twist\nFast paced puzzle game inspired by Tetris",
     "source_code_url": "https://codeberg.org/r10s/hextris",
@@ -873,7 +873,7 @@
   {
     "app_id": "r10s-packabunchas",
     "tag_name": "1.0.0",
-    "url": "https://codeberg.org/r10s/packabunchas/releases/download/1.0.0/packabunchas.xdc",
+    "url": "https://codeberg.org/r10s/packabunchas/releases/download/latest/packabunchas.xdc",
     "date": "2025-01-02T23:33:40+01:00",
     "description": "Lovely puzzle game\nJoin the PACKABUNCHAS, a group of space rangers specialized in packing\nand rescuing creatures around the galaxy!\nSolve tons of Ubongo- or Pentomino-like puzzles, in five different game modes.\nYou do not compete with other chat members but work together with them \ud83d\ude80",
     "source_code_url": "https://codeberg.org/r10s/packabunchas",
@@ -886,7 +886,7 @@
   {
     "app_id": "r10s-tower-builder",
     "tag_name": "1.1.1",
-    "url": "https://codeberg.org/r10s/tower-builder/releases/download/1.1.1/tower-builder.xdc",
+    "url": "https://codeberg.org/r10s/tower-builder/releases/download/latest/tower-builder.xdc",
     "date": "2025-01-02T23:28:58+01:00",
     "description": "Tower building game\nA little tower building game, you can compete with friends \ud83d\udc92\ud83c\udfe2\ud83c\udfec\ud83c\udfe6\ud83c\udfef\ud83c\udff0",
     "source_code_url": "https://codeberg.org/r10s/tower-builder",
@@ -899,7 +899,7 @@
   {
     "app_id": "s427-marl",
     "tag_name": "v2.13",
-    "url": "https://github.com/s427/MARL/releases/download/v2.13/marl.xdc",
+    "url": "https://github.com/s427/MARL/releases/latest/download/marl.xdc",
     "date": "2025-08-29T15:51:16Z",
     "description": "Mastodon Archive Reader Lite\nWith this tool you can explore the contents of a Mastodon\narchive file: account data, posts, attachments, etc.\nImported data stay on the device and is not shared among group members.",
     "source_code_url": "https://github.com/s427/MARL",
@@ -912,7 +912,7 @@
   {
     "app_id": "arcanecircle-tictactoe",
     "tag_name": "v2.2.0",
-    "url": "https://github.com/ArcaneCircle/tictactoe/releases/download/v2.2.0/tictactoe.xdc",
+    "url": "https://github.com/ArcaneCircle/tictactoe/releases/latest/download/tictactoe.xdc",
     "date": "2023-07-09T13:17:08Z",
     "description": "Tic Tac Toe tournament\nPlay the classic Tic Tac Toe game against other players and also watch their matches",
     "source_code_url": "https://github.com/ArcaneCircle/tictactoe",
@@ -925,7 +925,7 @@
   {
     "app_id": "simon-timetracking",
     "tag_name": "v0.10.1",
-    "url": "https://github.com/Simon-Laux/timetracking-webxdc/releases/download/v0.10.1/timetracking-webxdc_0.10.1.xdc",
+    "url": "https://github.com/Simon-Laux/timetracking-webxdc/releases/latest/download/timetracking-webxdc_0.10.1.xdc",
     "date": "2025-02-05T01:17:13Z",
     "description": "Time tracker\nTrack and analyze your project-/work-times easily across multiple devices, become productive \ud83c\udfaf",
     "source_code_url": "https://github.com/Simon-Laux/timetracking-webxdc",
@@ -938,7 +938,7 @@
   {
     "app_id": "arcanecircle-screen-message",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/ArcaneCircle/sm/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/sm/releases/latest/download/app.xdc",
     "date": "2025-02-13T16:08:27Z",
     "description": "Show text as large as possible\nA simple tool to display a word or a short, possibly multi-line,\ntext as large as possible on your screen, ex. to display in a talk\nor presentation",
     "source_code_url": "https://github.com/ArcaneCircle/sm",
@@ -951,7 +951,7 @@
   {
     "app_id": "rtn-totp",
     "tag_name": "v1.1.0",
-    "url": "https://codeberg.org/rtn/totp/releases/download/v1.1.0/totp.xdc",
+    "url": "https://codeberg.org/rtn/totp/releases/download/latest/totp.xdc",
     "date": "2025-02-24T11:15:28+01:00",
     "description": "Time-Based One-Time Passwords\nA tool for keeping track of Time-Based One-Time Passwords for Two Factor Authentication.\nUse it in your Saved Messages to sync your tokens between all your devices, or use\nit in a group for enabling shared access to accounts.",
     "source_code_url": "https://codeberg.org/rtn/totp",
@@ -964,7 +964,7 @@
   {
     "app_id": "arcanecircle-minesweeper",
     "tag_name": "v1.0.1",
-    "url": "https://github.com/ArcaneCircle/minesweeper/releases/download/v1.0.1/minesweeper.xdc",
+    "url": "https://github.com/ArcaneCircle/minesweeper/releases/latest/download/minesweeper.xdc",
     "date": "2025-02-16T14:51:28Z",
     "description": "A classic Minesweeper clone\nClick on a cell to uncover it, the numbers indicate the number of mines\ndiagonally and/or adjacent to the number. Don't touch a cell with a\nmine or it will blow up!",
     "source_code_url": "https://github.com/ArcaneCircle/minesweeper",
@@ -977,7 +977,7 @@
   {
     "app_id": "rtn-decker",
     "tag_name": "v1.5.0",
-    "url": "https://codeberg.org/rtn/decker-xdc/releases/download/v1.5.0/decker.xdc",
+    "url": "https://codeberg.org/rtn/decker-xdc/releases/download/latest/decker.xdc",
     "date": "2025-03-12T22:49:01+01:00",
     "description": "Decker Multimedia Platform\nDecker is a multimedia platform for creating and sharing interactive\ndocuments, with sound, images, hypertext, and scripted behavior. Decker\nbuilds on the legacy of HyperCard and the visual aesthetic of classic MacOS.",
     "source_code_url": "https://codeberg.org/rtn/decker-xdc",
@@ -990,7 +990,7 @@
   {
     "app_id": "guile-hoot-meta-repl",
     "tag_name": "0.2.0",
-    "url": "https://codeberg.org/breatheoutbreathein/guile-hoot-meta-repl/releases/download/0.2.0/guile-hoot-meta-repl.xdc",
+    "url": "https://codeberg.org/breatheoutbreathein/guile-hoot-meta-repl/releases/download/latest/guile-hoot-meta-repl.xdc",
     "date": "2025-03-02T20:18:16+01:00",
     "description": "Guile Hoot Metacircular REPL\nA demo of a Scheme interpreter written in Scheme using Guile Hoot.",
     "source_code_url": "https://codeberg.org/breatheoutbreathein/guile-hoot-meta-repl",
@@ -1003,7 +1003,7 @@
   {
     "app_id": "r10s-asc-to-vcard",
     "tag_name": "1.0.1",
-    "url": "https://codeberg.org/r10s/asc-to-vcard/releases/download/1.0.1/asc-to-vcard.xdc",
+    "url": "https://codeberg.org/r10s/asc-to-vcard/releases/download/latest/asc-to-vcard.xdc",
     "date": "2025-04-10T12:10:11+02:00",
     "description": "Connect to classic PGP mailers\nASC, PGP, VCF? You have no idea what this is about?\nDon't worry, then you do not need this tool.\nJust connect to your friends as usual, eg. via QR code or invite link",
     "source_code_url": "https://codeberg.org/r10s/asc-to-vcard",
@@ -1016,7 +1016,7 @@
   {
     "app_id": "r10s-congrats",
     "tag_name": "1.0.1",
-    "url": "https://codeberg.org/r10s/congrats/releases/download/1.0.1/congrats.xdc",
+    "url": "https://codeberg.org/r10s/congrats/releases/download/latest/congrats.xdc",
     "date": "2025-04-12T01:31:21+02:00",
     "description": "Send confetti greetings\nSend interactive, animated greeting cards to your friends.\nLet everyone throw confetti of predefined or custom flavours \ud83c\udf89",
     "source_code_url": "https://codeberg.org/r10s/congrats",
@@ -1029,7 +1029,7 @@
   {
     "app_id": "dice-box",
     "tag_name": "v2.0.1",
-    "url": "https://codeberg.org/sbkaf/3dDiceBox/releases/download/v2.0.1/3dDiceBox.xdc",
+    "url": "https://codeberg.org/sbkaf/3dDiceBox/releases/download/latest/3dDiceBox.xdc",
     "date": "2025-06-10T19:56:55+02:00",
     "description": "Your personal 3D Dice Box\nShake or tap to roll d2, d4, d6, d8, d10, d12, d20, d100, fate,\npip, boost, setback, ability, difficulty, challenge or proficiency\n(be patient: roll only if the last roll was complete)",
     "source_code_url": "https://codeberg.org/sbkaf/3dDiceBox",
@@ -1042,7 +1042,7 @@
   {
     "app_id": "arcanecircle-babeldungeon",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-de-en/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-de-en/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:41:18Z",
     "description": "German/English practices\nA gamified tool for German/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-de-en",
@@ -1055,7 +1055,7 @@
   {
     "app_id": "durian-rain",
     "tag_name": "v1.15",
-    "url": "https://codeberg.org/durian/rain-maker/releases/download/v1.15/rain.xdc",
+    "url": "https://codeberg.org/durian/rain-maker/releases/download/latest/rain.xdc",
     "date": "2025-05-08T15:53:09+02:00",
     "description": "Rain background noise\nRelax, focus on a task, or go to sleep with this rain soundscape.",
     "source_code_url": "https://codeberg.org/durian/rain-maker",
@@ -1068,7 +1068,7 @@
   {
     "app_id": "durian-realtime-editor",
     "tag_name": "v4.0.4",
-    "url": "https://codeberg.org/durian/editor/releases/download/v4.0.4/editor.xdc",
+    "url": "https://codeberg.org/durian/editor/releases/download/latest/editor.xdc",
     "date": "2024-12-06T19:57:37+01:00",
     "description": "Realtime offline-first editor\nFork of webxdc-editor that can be used to work collaboratively on shared documents.\nIf users are online they will see cursor positions and realtime typing.",
     "source_code_url": "https://codeberg.org/durian/editor",
@@ -1081,7 +1081,7 @@
   {
     "app_id": "durian-splitbill",
     "tag_name": "1.2",
-    "url": "https://codeberg.org/webxdc/split-bill/releases/download/1.2/app.xdc",
+    "url": "https://codeberg.org/webxdc/split-bill/releases/download/latest/app.xdc",
     "date": "2025-12-11T16:14:37+01:00",
     "description": "Share and split expenses\nTrack the expenses with your friends and find out how much each person owes.\nGreat for trips, home expenses, and dining out.",
     "source_code_url": "https://codeberg.org/durian/split-bill",
@@ -1094,7 +1094,7 @@
   {
     "app_id": "durian-todolist",
     "tag_name": "v0.0.9",
-    "url": "https://codeberg.org/durian/checklist/releases/download/v0.0.9/to-do%20list.xdc",
+    "url": "https://codeberg.org/durian/checklist/releases/download/latest/to-do%20list.xdc",
     "date": "2024-12-06T20:00:06+01:00",
     "description": "Create & track items jointly\nFork of webxdc checklist that adds visual improvements.\nAnyone may create named checklist items and mark them as resolved.\nGreat for planning a trip, party or shopping.\nLists can be exported and imported.",
     "source_code_url": "https://codeberg.org/durian/checklist",
@@ -1107,7 +1107,7 @@
   {
     "app_id": "durian-river",
     "tag_name": "v1",
-    "url": "https://codeberg.org/durian/river-soundscape/releases/download/v1/river.xdc",
+    "url": "https://codeberg.org/durian/river-soundscape/releases/download/latest/river.xdc",
     "date": "2025-05-09T16:49:58+02:00",
     "description": "River background noise\nRelax, focus on a task, or go to sleep with this river soundscape.",
     "source_code_url": "https://codeberg.org/durian/river-soundscape",
@@ -1120,7 +1120,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-de-es",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-de-es/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-de-es/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:45:56Z",
     "description": "German/Spanish practices\nA gamified tool for German/Spanish vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-de-es",
@@ -1133,7 +1133,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-eo-en",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-eo-en/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-eo-en/releases/latest/download/app.xdc",
     "date": "2026-01-12T15:02:45Z",
     "description": "Esperanto/English practices\nA gamified tool for Esperanto vocabulary learning for English speakers",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-eo-en",
@@ -1146,7 +1146,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-fr-en",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-fr-en/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-fr-en/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:53:44Z",
     "description": "French/English practices\nA gamified tool for French/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-fr-en",
@@ -1159,7 +1159,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-it-en",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-it-en/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-it-en/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:54:40Z",
     "description": "Italian/English practices\nA gamified tool for Italian/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-it-en",
@@ -1172,7 +1172,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-jp-en",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-jp-en/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-jp-en/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:57:00Z",
     "description": "Japanese/English practices\nA gamified tool for Japanese/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-jp-en",
@@ -1185,7 +1185,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-pt-en",
     "tag_name": "v3.6.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-pt-en/releases/download/v3.6.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-pt-en/releases/latest/download/app.xdc",
     "date": "2025-08-31T13:14:40Z",
     "description": "Portuguese/English practices\nA gamified tool for Portuguese/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-pt-en",
@@ -1198,7 +1198,7 @@
   {
     "app_id": "wofwca-quake3",
     "tag_name": "v5.0.1",
-    "url": "https://github.com/WofWca/quake3.xdc/releases/download/v5.0.1/quake3.xdc",
+    "url": "https://github.com/WofWca/quake3.xdc/releases/latest/download/quake3.xdc",
     "date": "2026-04-06T09:48:49Z",
     "description": "Multiplayer shooter\nA classic multiplayer-focused fast-paced FPS.",
     "source_code_url": "https://github.com/WofWca/quake3.xdc/",
@@ -1211,7 +1211,7 @@
   {
     "app_id": "arcanecircle-filesync",
     "tag_name": "v0.1.0",
-    "url": "https://github.com/ArcaneCircle/filesync/releases/download/v0.1.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/filesync/releases/latest/download/app.xdc",
     "date": "2025-05-28T19:04:30Z",
     "description": "P2P File Synchronization\nSync a list of files in chats with friends or with your other\ndevices. Files are synchronized using real-time Peer-to-Peer\nconnection with other online devices that have the app open",
     "source_code_url": "https://github.com/ArcaneCircle/filesync",
@@ -1224,7 +1224,7 @@
   {
     "app_id": "durian-moments",
     "tag_name": "0.2.31.1",
-    "url": "https://codeberg.org/durian/tiny-moments/releases/download/0.2.31.1/moments.xdc",
+    "url": "https://codeberg.org/durian/tiny-moments/releases/download/latest/moments.xdc",
     "date": "2026-03-12T18:47:57+01:00",
     "description": "A minimalist journal\nLog your day, create a private blog for friends, or post occasional updates for everyone.",
     "source_code_url": "https://codeberg.org/durian/tiny-moments",
@@ -1237,7 +1237,7 @@
   {
     "app_id": "arcanecircle-ruffle",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/ArcaneCircle/ruffle/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/ruffle/releases/latest/download/app.xdc",
     "date": "2025-06-04T17:52:07Z",
     "description": "Flash Player emulator\nAn open source Flash Player emulator.\nSelect a .swf file to play it",
     "source_code_url": "https://github.com/ArcaneCircle/ruffle",
@@ -1250,7 +1250,7 @@
   {
     "app_id": "maplediss-quiet-journal",
     "tag_name": "1.1",
-    "url": "https://codeberg.org/MapleDiss/Quiet_Journal/releases/download/1.1/Quiet%20Journal%201.1.xdc",
+    "url": "https://codeberg.org/MapleDiss/Quiet_Journal/releases/download/latest/Quiet%20Journal%201.1.xdc",
     "date": "2025-07-09T16:15:22+02:00",
     "description": "Minimal journaling app\nQuiet Journal is a minimalist, self-contained journaling and blogging Webxdc app for Delta Chat, Cheogram, and Monocles.\nKeep private notes, blog posts, and photos. Ideal for keeping records of events, thoughts and memories.\nFull download and backups available to preserve your data.",
     "source_code_url": "https://codeberg.org/MapleDiss/Quiet_Journal",
@@ -1263,7 +1263,7 @@
   {
     "app_id": "durian-colors",
     "tag_name": "0.1.19",
-    "url": "https://codeberg.org/durian/colors/releases/download/0.1.19/colors.xdc",
+    "url": "https://codeberg.org/durian/colors/releases/download/latest/colors.xdc",
     "date": "2026-03-12T19:40:24+01:00",
     "description": "Color scheme generator\nFind color combinations that you can use for your designs and artwork.",
     "source_code_url": "https://codeberg.org/durian/colors",
@@ -1276,7 +1276,7 @@
   {
     "app_id": "memory-blocks",
     "tag_name": "v0.0.1",
-    "url": "https://codeberg.org/stackwatermelon/memory-blocks-webxdc/releases/download/v0.0.1/memory-blocks.xdc",
+    "url": "https://codeberg.org/stackwatermelon/memory-blocks-webxdc/releases/download/latest/memory-blocks.xdc",
     "date": "2025-07-18T16:10:43+02:00",
     "description": "Memory Blocks game\nOpen source Memory Blocks game as seen in Memory Games and Lumosity.\nTuned to work with WebXDC in DeltaChat.",
     "source_code_url": "https://codeberg.org/stackwatermelon/memory-blocks-webxdc",
@@ -1289,7 +1289,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-en-es",
     "tag_name": "v3.7.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-en-es/releases/download/v3.7.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-en-es/releases/latest/download/app.xdc",
     "date": "2026-01-12T14:49:05Z",
     "description": "English/Spanish practices\nA gamified tool for English/Spanish vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-en-es",
@@ -1302,7 +1302,7 @@
   {
     "app_id": "arcanecircle-crashdown",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/ArcaneCircle/crashdown/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/crashdown/releases/latest/download/app.xdc",
     "date": "2025-07-19T18:51:38Z",
     "description": "Puzzle game\nA small logic puzzle game. Touch two or more adjacent blocks\nof the same color to make them disappear. If the blocks reach\nthe top of the screen and there is no more free space for a\nnew row of blocks to fall, you will lose",
     "source_code_url": "https://github.com/ArcaneCircle/crashdown",
@@ -1315,7 +1315,7 @@
   {
     "app_id": "webxdc-calc",
     "tag_name": "v1.0",
-    "url": "https://github.com/webxdc/calc/releases/download/v1.0/calc.xdc",
+    "url": "https://github.com/webxdc/calc/releases/latest/download/calc.xdc",
     "date": "2025-06-24T11:37:35Z",
     "description": "An excel like spreadsheet editor\nA port of the spreadsheet editor IronCalc to webxdc.\nIt supports multiple sheets, local storage\nbut does not allow collaborative editing yet",
     "source_code_url": "https://github.com/webxdc/calc",
@@ -1328,7 +1328,7 @@
   {
     "app_id": "arcanecircle-pixel-dungeon",
     "tag_name": "v1.5.0",
-    "url": "https://github.com/ArcaneCircle/pixel-dungeon/releases/download/v1.5.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/pixel-dungeon/releases/latest/download/app.xdc",
     "date": "2025-07-30T06:51:35Z",
     "description": "Rogue-like RPG game\nTraditional roguelike dungeon crawler RPG game with pixel-art\ngraphics and simple interface.",
     "source_code_url": "https://github.com/ArcaneCircle/pixel-dungeon",
@@ -1341,7 +1341,7 @@
   {
     "app_id": "the-wandering-wraith",
     "tag_name": "v1.0.2",
-    "url": "https://codeberg.org/sbkaf/the-wandering-wraith-webxdc/releases/download/v1.0.2/tww.xdc",
+    "url": "https://codeberg.org/sbkaf/the-wandering-wraith-webxdc/releases/download/latest/tww.xdc",
     "date": "2025-08-06T21:27:39+02:00",
     "description": "A 2d platformer\nLead the Wandering Wraith back to its grave by using various power ups.\nTry to collect to all red crystals to get the best highscore.\nMobile users steer by the buttons, keyboarders with arrow left, right and up.",
     "source_code_url": "https://codeberg.org/sbkaf/the-wandering-wraith-webxdc",
@@ -1354,7 +1354,7 @@
   {
     "app_id": "arcanecircle-pixelsocial",
     "tag_name": "v0.15.0",
-    "url": "https://github.com/ArcaneCircle/pixelsocial/releases/download/v0.15.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/pixelsocial/releases/latest/download/app.xdc",
     "date": "2026-01-30T18:45:25Z",
     "description": "The pixelated social network\nA server-less private social network,\nwithout dependency in any server, you own it!\nSend it in a group to have a private social network with\nthe group members",
     "source_code_url": "https://github.com/ArcaneCircle/pixelsocial",
@@ -1367,7 +1367,7 @@
   {
     "app_id": "arcanecircle-workitout",
     "tag_name": "v1.6.0",
-    "url": "https://github.com/ArcaneCircle/workitout/releases/download/v1.6.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/workitout/releases/latest/download/app.xdc",
     "date": "2025-09-14T16:34:07Z",
     "description": "Workout log feed\nMotivate your group to move: log reps in-chat, share progress,\nspark friendly challenges.\nTurn your chat into a live, motivating workout feed.\nInstead of exercising alone, every push-up, pull-up or squat\nyou log appears for the whole group, celebrating progress,\nfueling friendly competition, and building momentum together",
     "source_code_url": "https://github.com/ArcaneCircle/workitout",
@@ -1380,7 +1380,7 @@
   {
     "app_id": "muslim-prayer-times",
     "tag_name": "v0.8.0",
-    "url": "https://codeberg.org/stackwatermelon/prayer-times-webxdc/releases/download/v0.8.0/muslim-prayer-times-v0.8.0.xdc",
+    "url": "https://codeberg.org/stackwatermelon/prayer-times-webxdc/releases/download/latest/muslim-prayer-times-v0.8.0.xdc",
     "date": "2025-09-08T06:10:08+02:00",
     "description": "Muslim Prayer Times\nCheck prayer times of desired location with desired calculation method based on selected time-zone.\nThe location can be set via predefined cities (country capitals) or set manually by longitue and latitude.\nAvailable times includes Fajr, Sunrise, Dhuhr (Zuhr), Asr, Sunset, Maghrib, Isha, Middle of night.\nThe settings are saved so you dont have to re-enter them every time (Tuned to work with DeltaChat).",
     "source_code_url": "https://codeberg.org/stackwatermelon/prayer-times-webxdc",
@@ -1393,7 +1393,7 @@
   {
     "app_id": "bespinas-conviu",
     "tag_name": "v1.0.0",
-    "url": "https://codeberg.org/bespinas/conviu/releases/download/v1.0.0/app.xdc",
+    "url": "https://codeberg.org/bespinas/conviu/releases/download/latest/app.xdc",
     "date": "2025-08-29T20:05:09+02:00",
     "description": "Share and track recurring tasks\nUseful when sharing a flat, for example.",
     "source_code_url": "https://codeberg.org/bespinas/conviu",
@@ -1406,7 +1406,7 @@
   {
     "app_id": "hupf-shopping-list",
     "tag_name": "v1.4",
-    "url": "https://codeberg.org/hupf/shoppinglist-xdc/releases/download/v1.4/shopping-list.xdc",
+    "url": "https://codeberg.org/hupf/shoppinglist-xdc/releases/download/latest/shopping-list.xdc",
     "date": "2025-02-05T00:23:51+01:00",
     "description": "Organize your grocery shopping\nAnyone can add, edit and check shopping list items.\nItems can be conveniently sorted.",
     "source_code_url": "https://codeberg.org/hupf/shoppinglist-xdc",
@@ -1419,7 +1419,7 @@
   {
     "app_id": "jooray-d21poll",
     "tag_name": "v1.0",
-    "url": "https://github.com/jooray/d21poll/releases/download/v1.0/d21poll-xdc.xdc",
+    "url": "https://github.com/jooray/d21poll/releases/latest/download/d21poll-xdc.xdc",
     "date": "2025-08-21T21:04:42Z",
     "description": "Poll based on D21 voting methodology\nA poll app implementing D21-style plus/minus voting scheme by Karel Janecek for a single-winner choice.\nOne question, many options. Voters give a limited number of pluses and optionally one minus. Gives better\nresults than one person one vote.",
     "source_code_url": "https://github.com/jooray/d21poll",
@@ -1432,7 +1432,7 @@
   {
     "app_id": "simon-event-planner",
     "tag_name": "v0.0.0",
-    "url": "https://github.com/Simon-Laux/event-planner-webxdc/releases/download/v0.0.0/app.xdc",
+    "url": "https://github.com/Simon-Laux/event-planner-webxdc/releases/latest/download/app.xdc",
     "date": "2024-11-22T03:28:59Z",
     "description": "Event Planner\nA collaborative tool for planning events, allowing users to vote on dates and times.\nFun fact: This app was made mostly by AI \ud83e\udd16.",
     "source_code_url": "https://github.com/Simon-Laux/event-planner-webxdc",
@@ -1445,7 +1445,7 @@
   {
     "app_id": "zerosum-table",
     "tag_name": "v1.0",
-    "url": "https://codeberg.org/quandang/ZerosumTable/releases/download/v1.0/ZerosumTable.xdc",
+    "url": "https://codeberg.org/quandang/ZerosumTable/releases/download/latest/ZerosumTable.xdc",
     "date": "2025-08-29T05:03:13+02:00",
     "description": "Zero-sum Table\nA spreadsheet app that also calculate column sums and ensures that all rows sum to zero.\nThis is achieved by filling the empty cells in each rows evenly with the correct amount.\nAlso exports the table image to send to chat.",
     "source_code_url": "https://codeberg.org/quandang/ZerosumTable",
@@ -1458,7 +1458,7 @@
   {
     "app_id": "durian-time",
     "tag_name": "0.2.12",
-    "url": "https://codeberg.org/durian/what-time/releases/download/0.2.12/time.xdc",
+    "url": "https://codeberg.org/durian/what-time/releases/download/latest/time.xdc",
     "date": "2026-03-12T19:47:51+01:00",
     "description": "Compare time zones\nShare and compare time zones with people in your group chat.",
     "source_code_url": "https://codeberg.org/durian/what-time",
@@ -1471,7 +1471,7 @@
   {
     "app_id": "bespinas-divvy-bill",
     "tag_name": "v1.0.0",
-    "url": "https://codeberg.org/bespinas/divvy-bill/releases/download/v1.0.0/app.xdc",
+    "url": "https://codeberg.org/bespinas/divvy-bill/releases/download/latest/app.xdc",
     "date": "2025-09-10T19:08:53+02:00",
     "description": "Share and split expenses\nGreat for trips, home expenses and dining out.",
     "source_code_url": "https://codeberg.org/bespinas/divvy-bill",
@@ -1484,7 +1484,7 @@
   {
     "app_id": "image-album",
     "tag_name": "1.4",
-    "url": "https://codeberg.org/quandang/ImageAlbum/releases/download/1.4/ImageAlbum.xdc",
+    "url": "https://codeberg.org/quandang/ImageAlbum/releases/download/latest/ImageAlbum.xdc",
     "date": "2025-11-02T17:07:47+01:00",
     "description": "Image Album\nGenerate image albums to send to other people, instead of of having to send each image one by one.\nAlso supports compressing them to AVIF format, which is usually much smaller the a similar JPEG.",
     "source_code_url": "https://codeberg.org/quandang/ImageAlbum",
@@ -1497,7 +1497,7 @@
   {
     "app_id": "arcanecircle-dogspinner",
     "tag_name": "v0.1.0",
-    "url": "https://github.com/ArcaneCircle/dogspinner/releases/download/v0.1.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/dogspinner/releases/latest/download/app.xdc",
     "date": "2025-10-19T17:43:57Z",
     "description": "Make the dog spin\nIn this simple game you just sping the handle to make\nthe dog spin. Can be fun for children!\nCredits: this is a port of https://www.pigenpalace.com/dogspinner/\nby Lu Wilson & Flora Caulton",
     "source_code_url": "https://github.com/ArcaneCircle/dogspinner",
@@ -1510,7 +1510,7 @@
   {
     "app_id": "arcanecircle-yo",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/ArcaneCircle/yo/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/yo/releases/latest/download/app.xdc",
     "date": "2025-12-07T07:07:48Z",
     "description": "Send \"Yo!\" to your bro!\nYo! is a simple app to quickly send a \"Yo!\" or \"Bro!\"\nnotification to your chat pals. If both sides have the app\nopen at the same time then there is a match/connection\nand a sound is played when you receive a Yo!",
     "source_code_url": "https://github.com/ArcaneCircle/yo",
@@ -1523,7 +1523,7 @@
   {
     "app_id": "arcanecircle-tic80",
     "tag_name": "v1.2.0-beta",
-    "url": "https://github.com/ArcaneCircle/TIC-80/releases/download/v1.2.0-beta/tic80.xdc",
+    "url": "https://github.com/ArcaneCircle/TIC-80/releases/latest/download/tic80.xdc",
     "date": "2025-12-07T02:57:15Z",
     "description": "Fantasy console\nTIC-80 is a fantasy computer for making, playing and sharing tiny games.\nThere are built-in tools for development: code, sprites, maps,\nsound editors and the command line, which is enough to create\na mini retro game. At the exit you will get a cartridge file,\nwhich can be stored, shared and played.",
     "source_code_url": "https://github.com/ArcaneCircle/TIC-80",
@@ -1536,7 +1536,7 @@
   {
     "app_id": "ms702-traero",
     "tag_name": "v0.8.14",
-    "url": "https://github.com/MS702/Traero-webxdc/releases/download/v0.8.14/Traero.xdc",
+    "url": "https://github.com/MS702/Traero-webxdc/releases/latest/download/Traero.xdc",
     "date": "2026-02-25T19:37:12Z",
     "description": "A modern shopping list\nA modern shopping list app, inspired by the Bring!-app.\nIt is a sleek, user-friendly tool that lets you manage your grocery list inside the chat you want.\nEvery member of your chat can add, check or uncheck with one finger and remove by clicking one second.",
     "source_code_url": "https://github.com/MS702/Traero-webxdc",
@@ -1549,7 +1549,7 @@
   {
     "app_id": "ms702-v86emu",
     "tag_name": "v0.8.1",
-    "url": "https://github.com/MS702/v86Emu-webxdc/releases/download/v0.8.1/v86Emu.xdc",
+    "url": "https://github.com/MS702/v86Emu-webxdc/releases/latest/download/v86Emu.xdc",
     "date": "2025-11-29T19:58:25Z",
     "description": "A simple x86 emulator\nX86 emulator that can load 32-bit ISOs and supports TCP/UDP networking using realtime API.\nBased on Copy's v86 emulator.",
     "source_code_url": "https://github.com/MS702/v86Emu-webxdc",
@@ -1562,7 +1562,7 @@
   {
     "app_id": "davidsm10-crypto-whisper",
     "tag_name": "v1.2.0",
-    "url": "https://github.com/davidsm10/crypto-whisper/releases/download/v1.2.0/crypto-whisper.xdc",
+    "url": "https://github.com/davidsm10/crypto-whisper/releases/latest/download/crypto-whisper.xdc",
     "date": "2024-10-25T23:40:16Z",
     "description": "Private chats on groups\nExperimental chat app with end-to-end encryption allowing you to have private chats in groups.\nUseful to exchange contact information in bridged/anonymous chat groups.",
     "source_code_url": "https://github.com/davidsm10/crypto-whisper",
@@ -1575,7 +1575,7 @@
   {
     "app_id": "davidsm10-cryptotext",
     "tag_name": "v3.2.1",
-    "url": "https://github.com/davidsm10/CryptoText/releases/download/v3.2.1/crypto-text.xdc",
+    "url": "https://github.com/davidsm10/CryptoText/releases/latest/download/crypto-text.xdc",
     "date": "2024-11-20T01:49:19Z",
     "description": "Encrypt text and files\nEncrypt and decrypt text and files using a password or a key phrase.",
     "source_code_url": "https://github.com/davidsm10/CryptoText",
@@ -1588,7 +1588,7 @@
   {
     "app_id": "davidsm10-email-composer",
     "tag_name": "v1.3.4",
-    "url": "https://github.com/davidsm10/email-composer-webxdc/releases/download/v1.3.4/app.xdc",
+    "url": "https://github.com/davidsm10/email-composer-webxdc/releases/latest/download/app.xdc",
     "date": "2025-07-26T16:27:57Z",
     "description": "Classic email composer\nNote: Currently only ArcaneChat supports setting a subject or HTML.\nCompose long emails easily, set a subject, use advanced HTML markup to express what you want.",
     "source_code_url": "https://github.com/davidsm10/email-composer-webxdc",
@@ -1601,7 +1601,7 @@
   {
     "app_id": "davidsm10-poll",
     "tag_name": "v1.4",
-    "url": "https://github.com/davidsm10/poll-webxdc/releases/download/v1.4/app.xdc",
+    "url": "https://github.com/davidsm10/poll-webxdc/releases/latest/download/app.xdc",
     "date": "2026-02-18T17:00:04Z",
     "description": "Beautiful poll app\nLet others vote on your questions!",
     "source_code_url": "https://github.com/davidsm10/poll-webxdc",
@@ -1614,7 +1614,7 @@
   {
     "app_id": "davidsm10-sharer",
     "tag_name": "v2.3.0",
-    "url": "https://github.com/davidsm10/sharer/releases/download/v2.3.0/app.xdc",
+    "url": "https://github.com/davidsm10/sharer/releases/latest/download/app.xdc",
     "date": "2025-10-30T18:05:05Z",
     "description": "File sharer\nExperimental app that automatically splits files in parts and joins the parts when they are received.\nIt can be useful when you need to send big files or when there is a maximum file size limit.",
     "source_code_url": "https://github.com/davidsm10/sharer",
@@ -1627,7 +1627,7 @@
   {
     "app_id": "davidsm10-webxdc-code-playground",
     "tag_name": "v0.3.0",
-    "url": "https://github.com/davidsm10/webxdc-code-playground/releases/download/v0.3.0/app.xdc",
+    "url": "https://github.com/davidsm10/webxdc-code-playground/releases/latest/download/app.xdc",
     "date": "2026-01-04T15:02:01Z",
     "description": "Playground for in-chat-apps\nCode, preview and build a webxdc.",
     "source_code_url": "https://github.com/davidsm10/webxdc-code-playground",
@@ -1640,7 +1640,7 @@
   {
     "app_id": "realtime-chat",
     "tag_name": "1.1",
-    "url": "https://codeberg.org/quandang/RealtimeChat/releases/download/1.1/RealtimeChat.xdc",
+    "url": "https://codeberg.org/quandang/RealtimeChat/releases/download/latest/RealtimeChat.xdc",
     "date": "2025-12-17T04:15:18+01:00",
     "description": "Realtime Chat\nHigh speed file transfer and low latency messaging.\nBoth sender and receiver need to open the app to transfer files.\nIf not, messages and image previews will be sent through the regular updates and files won't be sent.",
     "source_code_url": "https://codeberg.org/quandang/RealtimeChat",
@@ -1653,7 +1653,7 @@
   {
     "app_id": "link2xt-skedz",
     "tag_name": "v2",
-    "url": "https://codeberg.org/link2xt/skedz/releases/download/v2/app.xdc",
+    "url": "https://codeberg.org/link2xt/skedz/releases/download/latest/app.xdc",
     "date": "2026-01-28T15:31:56+01:00",
     "description": "Schedule viewer\nView conference schedules in pentabarf/frab/pretalx schedule.json format.\nLiked sessions are shared with everyone in the chat.",
     "source_code_url": "https://codeberg.org/link2xt/skedz",
@@ -1666,7 +1666,7 @@
   {
     "app_id": "grzgrz-fundit",
     "tag_name": "v1.0.1",
-    "url": "https://codeberg.org/Grzegorz/FundIt/releases/download/v1.0.1/fund-it_v1.0.1.xdc",
+    "url": "https://codeberg.org/Grzegorz/FundIt/releases/download/latest/fund-it_v1.0.1.xdc",
     "date": "2026-02-08T21:20:03+01:00",
     "description": "Give away your wealth to win!\nA competitive game for 2-4 players",
     "source_code_url": "https://codeberg.org/Grzegorz/FundIt",
@@ -1679,7 +1679,7 @@
   {
     "app_id": "durian-ice",
     "tag_name": "0.1.4",
-    "url": "https://codeberg.org/durian/found-ice/releases/download/0.1.4/salute.xdc",
+    "url": "https://codeberg.org/durian/found-ice/releases/download/latest/salute.xdc",
     "date": "2026-03-12T18:01:15+01:00",
     "description": "ICE sighting generator\nWrite down possible ICE sightings and send them to your group chat.",
     "source_code_url": "https://codeberg.org/durian/found-ice",
@@ -1692,7 +1692,7 @@
   {
     "app_id": "dc09-dclogin",
     "tag_name": "v1.1.0",
-    "url": "https://codeberg.org/DarkCat09/dclogin/releases/download/v1.1.0/dclogin.xdc",
+    "url": "https://codeberg.org/DarkCat09/dclogin/releases/download/latest/dclogin.xdc",
     "date": "2026-02-18T20:42:08+01:00",
     "description": "dclogin:// link generator\nLog in to DeltaChat with an existing e-mail.\nIn official clients, it's possible only on the initial setup, but not when adding a relay.\nThis app generates a URL + QR code allowing to log in with a classical e-mail account.",
     "source_code_url": "https://codeberg.org/DarkCat09/dclogin",
@@ -1705,7 +1705,7 @@
   {
     "app_id": "arcanecircle-babeldungeon-eu-en",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/ArcaneCircle/babel-dungeon-eu-en/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/ArcaneCircle/babel-dungeon-eu-en/releases/latest/download/app.xdc",
     "date": "2026-02-25T15:09:51Z",
     "description": "Basque/English practices\nA gamified tool for Basque(Euskara)/English vocabulary learning",
     "source_code_url": "https://github.com/ArcaneCircle/babel-dungeon-eu-en",
@@ -1718,7 +1718,7 @@
   {
     "app_id": "webxdc-scramble",
     "tag_name": "v1.0.4",
-    "url": "https://github.com/Acbn-Nick/webxdc-scramble/releases/download/v1.0.4/scramble.xdc",
+    "url": "https://github.com/Acbn-Nick/webxdc-scramble/releases/latest/download/scramble.xdc",
     "date": "2026-03-09T16:56:34Z",
     "description": "Scramble\n2-player game where you score points by forming words with tiles!",
     "source_code_url": "https://github.com/Acbn-Nick/webxdc-scramble",
@@ -1731,7 +1731,7 @@
   {
     "app_id": "davidsm10-checkers",
     "tag_name": "v1.0.0",
-    "url": "https://github.com/davidsm10/checkers-webxdc/releases/download/v1.0.0/app.xdc",
+    "url": "https://github.com/davidsm10/checkers-webxdc/releases/latest/download/app.xdc",
     "date": "2026-03-20T20:15:44Z",
     "description": "Checkers/Draughts game\nEnglish Draughts/American Checkers game for two players and many observers",
     "source_code_url": "https://github.com/davidsm10/checkers-webxdc",
@@ -1744,7 +1744,7 @@
   {
     "app_id": "lil5-myswap",
     "tag_name": "1.0.7",
-    "url": "https://codeberg.org/lil5/myswap/releases/download/1.0.7/myswap.xdc",
+    "url": "https://codeberg.org/lil5/myswap/releases/download/latest/myswap.xdc",
     "date": "2026-03-17T18:05:39+01:00",
     "description": "Swap Clothes & more\nCreate routes for a bag to travel from neighbour to neighbour, to collect and give clothes and other stuff to your community.",
     "source_code_url": "https://codeberg.org/lil5/myswap",

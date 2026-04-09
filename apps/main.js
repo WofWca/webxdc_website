@@ -84,10 +84,10 @@ const Dialog = ({app, modal, toggleModal}) => {
       </div>
       <div class="additional-info">
         <div>
-          <b>Published: </b>${dayjs(app.date).format("l")} (${app.tag_name})
+          <b>Published: </b>${dayjs(app.date).format("l")} (${app.tag_name}) or later
         </div>
         <div>
-          <b>Size: </b>${size}
+          <b>Size: </b>~${size}
         </div>
         <div class="ellipse">
           <b>Source: </b><a href=${app.source_code_url} target="_blank">${app.source_code_url}</a>
