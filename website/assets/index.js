@@ -58,7 +58,7 @@
         return m && m.length === 3 ? m[2] : '';
     }
 
-    fetch(xdcgetBase + '/xdcget-lock.json')
+    fetch('../apps/xdcget-lock.json')
         .then(function(r) {
             if (!r.ok) throw new Error('HTTP ' + r.status);
             return r.json();
@@ -203,7 +203,7 @@
         document.getElementById('app-dialog-author').textContent = extractAuthor(sourceUrl);
         document.getElementById('app-dialog-description').textContent = desc;
         var dlBtn = document.getElementById('app-dialog-download');
-        dlBtn.href = xdcgetBase + '/' + app.cache_relname;
+        dlBtn.href = app.url;
         dlBtn.textContent = 'Download';
         var publishedDate = new Date(app.date).toLocaleDateString();
         dlBtn.title = formatSize(app.size) + ' \u00B7 Published ' + publishedDate;

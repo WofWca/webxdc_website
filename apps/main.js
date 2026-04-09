@@ -94,7 +94,7 @@ const Dialog = ({app, modal, toggleModal}) => {
         </div>
       </div>
       <div class="button-container">
-        <a href="${xdcget_export + "/" + app.cache_relname}" target="_blank" class="button">
+        <a href="${app.url}" target="_blank" class="button">
           Add to Chat
         </a>
         <button class="ghost" onClick=${() => toggleModal(false)}>Close</button>
@@ -186,7 +186,7 @@ const MainScreen = () => {
   useEffect(() => {
     (async () => {
       console.log("fetch");
-      setApps(await (await fetch(xdcget_export + "/xdcget-lock.json")).json());
+      setApps(await (await fetch("./xdcget-lock.json")).json());
       setLoading(false);
     })();
   }, []);
