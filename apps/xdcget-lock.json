@@ -1899,15 +1899,15 @@
   },
   {
     "app_id": "arcanecircle-balancefish",
-    "tag_name": "v1.0.0",
+    "tag_name": "v1.0.1",
     "url": "https://github.com/ArcaneCircle/balance-fish/releases/latest/download/balance-fish.xdc",
-    "date": "2026-04-22T17:13:08Z",
+    "date": "2026-04-29T14:06:07Z",
     "description": "A deep-sea adventure game\nAs a deep-sea fish (with legs), restore balance to the power grid to bring your city back to life!\nPlug the cables into the substations to carry electricity further into the depths.\nWill the strange sea creatures help or hinder your quest to restore balance?\nThe original game was created by Joachim Ford, see https://joachimford.uk/balance-fish",
     "source_code_url": "https://github.com/ArcaneCircle/balance-fish",
     "name": "Balance Fish",
     "category": "game",
-    "cache_relname": "arcanecircle-balancefish-v1.0.0.xdc",
-    "size": 1165796,
+    "cache_relname": "arcanecircle-balancefish-v1.0.1.xdc",
+    "size": 1165793,
     "icon_relname": "arcanecircle-balancefish-icon.png"
   },
   {
@@ -1974,5 +1974,18 @@
     "cache_relname": "arcanecircle-sub13-v1.0.1.xdc",
     "size": 29685,
     "icon_relname": "arcanecircle-sub13-icon.png"
+  },
+  {
+    "app_id": "arcanecircle-kleptokitty",
+    "tag_name": "v1.0.1",
+    "url": "https://github.com/ArcaneCircle/kleptokitty/releases/latest/download/app.xdc",
+    "date": "2026-05-01T18:34:01Z",
+    "description": "Stealth puzzle game\nYou are Kleptokitty - whisker-twitching, tail-flicking, diamond-snatching master of meow-heist mischief.\nThe mansion is full of riches, traps, and clueless guards\u2026 but none of them stand a chance against the purrfect crime",
+    "source_code_url": "https://github.com/ArcaneCircle/kleptokitty",
+    "name": "KleptoKitty",
+    "category": "game",
+    "cache_relname": "arcanecircle-kleptokitty-v1.0.1.xdc",
+    "size": 204826,
+    "icon_relname": "arcanecircle-kleptokitty-icon.png"
   }
 ]
