@@ -1444,15 +1444,15 @@
   },
   {
     "app_id": "bespinas-divvy-bill",
-    "tag_name": "v1.0.0",
+    "tag_name": "v2.0.0",
     "url": "https://codeberg.org/bespinas/divvy-bill/releases/download/latest/app.xdc",
-    "date": "2025-09-10T19:08:53+02:00",
+    "date": "2026-05-03T21:05:19+02:00",
     "description": "Share and split expenses\nGreat for trips, home expenses and dining out.",
     "source_code_url": "https://codeberg.org/bespinas/divvy-bill",
     "name": "Divvy Bill",
     "category": "tool",
-    "cache_relname": "bespinas-divvy-bill-v1.0.0.xdc",
-    "size": 50932,
+    "cache_relname": "bespinas-divvy-bill-v2.0.0.xdc",
+    "size": 34721,
     "icon_relname": "bespinas-divvy-bill-icon.png"
   },
   {
@@ -1977,15 +1977,28 @@
   },
   {
     "app_id": "arcanecircle-kleptokitty",
-    "tag_name": "v1.0.1",
+    "tag_name": "v1.4.0",
     "url": "https://github.com/ArcaneCircle/kleptokitty/releases/latest/download/app.xdc",
-    "date": "2026-05-01T18:34:01Z",
+    "date": "2026-05-04T20:23:36Z",
     "description": "Stealth puzzle game\nYou are Kleptokitty - whisker-twitching, tail-flicking, diamond-snatching master of meow-heist mischief.\nThe mansion is full of riches, traps, and clueless guards\u2026 but none of them stand a chance against the purrfect crime",
     "source_code_url": "https://github.com/ArcaneCircle/kleptokitty",
     "name": "KleptoKitty",
     "category": "game",
-    "cache_relname": "arcanecircle-kleptokitty-v1.0.1.xdc",
-    "size": 204826,
+    "cache_relname": "arcanecircle-kleptokitty-v1.4.0.xdc",
+    "size": 205782,
     "icon_relname": "arcanecircle-kleptokitty-icon.png"
+  },
+  {
+    "app_id": "arcanecircle-naas",
+    "tag_name": "v1.0.0",
+    "url": "https://github.com/ArcaneCircle/no-as-a-service/releases/latest/download/app.xdc",
+    "date": "2026-05-03T17:09:12Z",
+    "description": "Rejection reason generator\nEver needed a graceful way to say \"no\"? This small app displays random, generic, creative,\nand sometimes hilarious rejection reasons",
+    "source_code_url": "https://github.com/ArcaneCircle/no-as-a-service",
+    "name": "No",
+    "category": "tool",
+    "cache_relname": "arcanecircle-naas-v1.0.0.xdc",
+    "size": 49721,
+    "icon_relname": "arcanecircle-naas-icon.png"
   }
 ]
