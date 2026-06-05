@@ -183,15 +183,15 @@
   },
   {
     "app_id": "webxdc-test",
-    "tag_name": "1.5.0",
+    "tag_name": "1.6.0",
     "url": "https://github.com/webxdc/webxdc-test/releases/latest/download/webxdc-test.xdc",
-    "date": "2025-11-23T19:22:11Z",
+    "date": "2026-05-25T15:08:51Z",
     "description": "Webxdc test tool\nDeveloper tool. Run this tool to understand which HTML/JS features are available\nfor developing webxdc apps",
     "source_code_url": "https://github.com/webxdc/webxdc-test",
     "name": "Test Webxdc",
     "category": "tool",
-    "cache_relname": "webxdc-test-1.5.0.xdc",
-    "size": 164148,
+    "cache_relname": "webxdc-test-1.6.0.xdc",
+    "size": 164181,
     "icon_relname": "webxdc-test-icon.png"
   },
   {
@@ -1444,15 +1444,15 @@
   },
   {
     "app_id": "bespinas-divvy-bill",
-    "tag_name": "v2.0.0",
+    "tag_name": "v2.1.0",
     "url": "https://codeberg.org/bespinas/divvy-bill/releases/download/latest/app.xdc",
-    "date": "2026-05-03T21:05:19+02:00",
+    "date": "2026-06-03T06:26:23+02:00",
     "description": "Share and split expenses\nGreat for trips, home expenses and dining out.",
     "source_code_url": "https://codeberg.org/bespinas/divvy-bill",
     "name": "Divvy Bill",
     "category": "tool",
-    "cache_relname": "bespinas-divvy-bill-v2.0.0.xdc",
-    "size": 34721,
+    "cache_relname": "bespinas-divvy-bill-v2.1.0.xdc",
+    "size": 34797,
     "icon_relname": "bespinas-divvy-bill-icon.png"
   },
   {
@@ -2000,5 +2000,18 @@
     "cache_relname": "arcanecircle-naas-v1.0.0.xdc",
     "size": 49721,
     "icon_relname": "arcanecircle-naas-icon.png"
+  },
+  {
+    "app_id": "pea-webxdcfishing",
+    "tag_name": "v1.1.0",
+    "url": "https://codeberg.org/pea/webxdcfishing/releases/download/latest/webxdcfishing.xdc",
+    "date": "2026-06-05T16:24:14+02:00",
+    "description": "3D multiplayer fishing game\nSocial hangout game with fishing, progression and character customization.\nStill in development, expect bugs. Known to have issues on Cheogram.\nInspired by the game \"Webfishing\".",
+    "source_code_url": "https://codeberg.org/pea/webxdcfishing",
+    "name": "webxdcfishing",
+    "category": "game",
+    "cache_relname": "pea-webxdcfishing-v1.1.0.xdc",
+    "size": 1727737,
+    "icon_relname": "pea-webxdcfishing-icon.png"
   }
 ]
