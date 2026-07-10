@@ -1301,15 +1301,15 @@
   },
   {
     "app_id": "webxdc-calc",
-    "tag_name": "v1.0",
+    "tag_name": "v1.1.0",
     "url": "https://github.com/webxdc/calc/releases/latest/download/calc.xdc",
-    "date": "2025-06-24T11:37:35Z",
-    "description": "An excel like spreadsheet editor\nA port of the spreadsheet editor IronCalc to webxdc.\nIt supports multiple sheets, local storage\nbut does not allow collaborative editing yet",
+    "date": "2026-07-10T11:06:39Z",
+    "description": "An excel like spreadsheet editor\nAn experimental port of the spreadsheet editor IronCalc.\nIt supports multiple sheets and collaborative editing.",
     "source_code_url": "https://github.com/webxdc/calc",
     "name": "Calc",
     "category": "tool",
-    "cache_relname": "webxdc-calc-v1.0.xdc",
-    "size": 869456,
+    "cache_relname": "webxdc-calc-v1.1.0.xdc",
+    "size": 904665,
     "icon_relname": "webxdc-calc-icon.png"
   },
   {
@@ -1444,15 +1444,15 @@
   },
   {
     "app_id": "bespinas-divvy-bill",
-    "tag_name": "v2.1.0",
+    "tag_name": "v2.2.0",
     "url": "https://codeberg.org/bespinas/divvy-bill/releases/download/latest/app.xdc",
-    "date": "2026-06-03T06:26:23+02:00",
+    "date": "2026-07-10T00:40:41+02:00",
     "description": "Share and split expenses\nGreat for trips, home expenses and dining out.",
     "source_code_url": "https://codeberg.org/bespinas/divvy-bill",
     "name": "Divvy Bill",
     "category": "tool",
-    "cache_relname": "bespinas-divvy-bill-v2.1.0.xdc",
-    "size": 34797,
+    "cache_relname": "bespinas-divvy-bill-v2.2.0.xdc",
+    "size": 38024,
     "icon_relname": "bespinas-divvy-bill-icon.png"
   },
   {
@@ -1465,7 +1465,7 @@
     "name": "Image Album",
     "category": "tool",
     "cache_relname": "image-album-1.4.xdc",
-    "size": 2344212,
+    "size": 2344232,
     "icon_relname": "image-album-icon.png"
   },
   {
@@ -1872,19 +1872,6 @@
     "icon_relname": "arcanecircle-po12-icon.png"
   },
   {
-    "app_id": "deltaru-ittools",
-    "tag_name": "v2024.10.22-7ca5933",
-    "url": "https://codeberg.org/DeltaRu/IT-Tools/releases/download/latest/it-tools.xdc",
-    "date": "2026-04-21T22:00:28+02:00",
-    "description": "Handy developer tools collection\nCollection of handy tools for developers with great UX.\nAdapted for Delta Chat from the original IT-Tools.\nOn desktop, enlarging the window may be required for best experience.",
-    "source_code_url": "https://codeberg.org/DeltaRu/IT-Tools",
-    "name": "IT-Tools",
-    "category": "tool",
-    "cache_relname": "deltaru-ittools-v2024.10.22-7ca5933.xdc",
-    "size": 3817666,
-    "icon_relname": "deltaru-ittools-icon.png"
-  },
-  {
     "app_id": "jooray-nowhere",
     "tag_name": "v0.1.0",
     "url": "https://github.com/jooray/nowhere-webxdc/releases/latest/download/nowhere.xdc",
@@ -2003,15 +1990,54 @@
   },
   {
     "app_id": "pea-webxdcfishing",
-    "tag_name": "v1.1.0",
+    "tag_name": "v1.3.4",
     "url": "https://codeberg.org/pea/webxdcfishing/releases/download/latest/webxdcfishing.xdc",
-    "date": "2026-06-05T16:24:14+02:00",
-    "description": "3D multiplayer fishing game\nSocial hangout game with fishing, progression and character customization.\nStill in development, expect bugs. Known to have issues on Cheogram.\nInspired by the game \"Webfishing\".",
+    "date": "2026-06-16T20:27:11+02:00",
+    "description": "3D multiplayer fishing game\nSocial hangout game with fishing, progression and character customization.\nStill in development, expect bugs.\nInspired by the game \"Webfishing\".",
     "source_code_url": "https://codeberg.org/pea/webxdcfishing",
     "name": "webxdcfishing",
     "category": "game",
-    "cache_relname": "pea-webxdcfishing-v1.1.0.xdc",
-    "size": 1727737,
+    "cache_relname": "pea-webxdcfishing-v1.3.4.xdc",
+    "size": 1814351,
     "icon_relname": "pea-webxdcfishing-icon.png"
+  },
+  {
+    "app_id": "zalexanninev15-ittools",
+    "tag_name": "v2024.10.22-7ca5933-r2",
+    "url": "https://codeberg.org/Zalexanninev15/IT-Tools/releases/download/latest/IT-Tools.xdc",
+    "date": "2026-06-11T15:51:53+02:00",
+    "description": "Handy developer tools collection\nCollection of handy tools for developers with great UX.\nAdapted for Delta Chat from the original IT-Tools.\nOn desktop, enlarging the window may be required for best experience.",
+    "source_code_url": "https://codeberg.org/Zalexanninev15/IT-Tools",
+    "name": "IT-Tools",
+    "category": "tool",
+    "cache_relname": "zalexanninev15-ittools-v2024.10.22-7ca5933-r2.xdc",
+    "size": 3817713,
+    "icon_relname": "zalexanninev15-ittools-icon.png"
+  },
+  {
+    "app_id": "zalexanninev15-kojios",
+    "tag_name": "v2.0-port",
+    "url": "https://codeberg.org/Zalexanninev15/KojiOS-XDC/releases/download/latest/KojiOS.xdc",
+    "date": "2026-06-11T18:12:34+02:00",
+    "description": "Console with a collection of tools\nA unique web terminal with many interesting features for all user groups.\nThe first version is provided \"as is\", some functionality is tied to online functions, but there is little of it.",
+    "source_code_url": "https://codeberg.org/Zalexanninev15/KojiOS-XDC",
+    "name": "KojiOS",
+    "category": "tool",
+    "cache_relname": "zalexanninev15-kojios-v2.0-port.xdc",
+    "size": 626373,
+    "icon_relname": "zalexanninev15-kojios-icon.png"
+  },
+  {
+    "app_id": "zalexanninev15-nexttools",
+    "tag_name": "v1.9.6",
+    "url": "https://codeberg.org/Zalexanninev15/Next-Tools/releases/download/latest/Next-Tools.xdc",
+    "date": "2026-06-11T17:17:30+02:00",
+    "description": "Handy developer tools collection. Nextgen for IT-Tools.\nCollection of handy tools for developers with great UX.\nAdapted for Delta Chat from the original Next-Tools.\nThis application is a fork of the original IT-Tools.",
+    "source_code_url": "https://codeberg.org/Zalexanninev15/Next-Tools",
+    "name": "Next-Tools",
+    "category": "tool",
+    "cache_relname": "zalexanninev15-nexttools-v1.9.6.xdc",
+    "size": 8413114,
+    "icon_relname": "zalexanninev15-nexttools-icon.png"
   }
 ]
