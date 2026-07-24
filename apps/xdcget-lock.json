@@ -1,18 +1,5 @@
 [
   {
-    "app_id": "link2xt-count",
-    "tag_name": "v1",
-    "url": "https://codeberg.org/link2xt/count.xdc/releases/download/latest/count.xdc",
-    "date": "2024-11-02T18:48:37+01:00",
-    "description": "Chatters cannot count\nLearn to count together with your friends.",
-    "source_code_url": "https://codeberg.org/link2xt/count.xdc/",
-    "name": "Chatters cannot count",
-    "category": "game",
-    "cache_relname": "link2xt-count-v1.xdc",
-    "size": 1886,
-    "icon_relname": "link2xt-count-icon.png"
-  },
-  {
     "app_id": "nelson9608-calculator-xdc",
     "tag_name": "V1.0.0",
     "url": "https://github.com/nelson9608/Calculator-xdc/releases/latest/download/Calculator-2.xdc",
@@ -89,19 +76,6 @@
     "cache_relname": "webxdc-checklist-v0.0.3.xdc",
     "size": 98838,
     "icon_relname": "webxdc-checklist-icon.png"
-  },
-  {
-    "app_id": "webxdc-clocksync",
-    "tag_name": "v1",
-    "url": "https://codeberg.org/webxdc/clock-sync/releases/download/latest/clock-sync.xdc",
-    "date": "2024-11-16T22:22:40+01:00",
-    "description": "Clock sync\nClock synchronization using realtime channels.",
-    "source_code_url": "https://codeberg.org/webxdc/clock-sync",
-    "name": "Clock sync",
-    "category": "tool",
-    "cache_relname": "webxdc-clocksync-v1.xdc",
-    "size": 6301,
-    "icon_relname": "webxdc-clocksync-icon.png"
   },
   {
     "app_id": "webxdc-corkboard",
@@ -1210,15 +1184,15 @@
   },
   {
     "app_id": "durian-moments",
-    "tag_name": "0.2.31.1",
+    "tag_name": "0.2.32",
     "url": "https://codeberg.org/durian/tiny-moments/releases/download/latest/moments.xdc",
-    "date": "2026-03-12T18:47:57+01:00",
+    "date": "2026-07-10T22:19:28+02:00",
     "description": "A minimalist journal\nLog your day, create a private blog for friends, or post occasional updates for everyone.",
     "source_code_url": "https://codeberg.org/durian/tiny-moments",
     "name": "Tiny Moments",
     "category": "tool",
-    "cache_relname": "durian-moments-0.2.31.1.xdc",
-    "size": 105639,
+    "cache_relname": "durian-moments-0.2.32.xdc",
+    "size": 105615,
     "icon_relname": "durian-moments-icon.png"
   },
   {
@@ -1236,15 +1210,15 @@
   },
   {
     "app_id": "maplediss-quiet-journal",
-    "tag_name": "1.1",
-    "url": "https://codeberg.org/MapleDiss/Quiet_Journal/releases/download/latest/Quiet%20Journal%201.1.xdc",
-    "date": "2025-07-09T16:15:22+02:00",
+    "tag_name": "2.8",
+    "url": "https://codeberg.org/MapleDiss/Quiet_Journal/releases/download/latest/Quiet_Journal_2.8.xdc",
+    "date": "2026-07-18T19:21:54+02:00",
     "description": "Minimal journaling app\nQuiet Journal is a minimalist, self-contained journaling and blogging Webxdc app for Delta Chat, Cheogram, and Monocles.\nKeep private notes, blog posts, and photos. Ideal for keeping records of events, thoughts and memories.\nFull download and backups available to preserve your data.",
     "source_code_url": "https://codeberg.org/MapleDiss/Quiet_Journal",
     "name": "Quiet Journal",
     "category": "tool",
-    "cache_relname": "maplediss-quiet-journal-1.1.xdc",
-    "size": 138233,
+    "cache_relname": "maplediss-quiet-journal-2.8.xdc",
+    "size": 149661,
     "icon_relname": "maplediss-quiet-journal-icon.png"
   },
   {
@@ -1730,15 +1704,15 @@
   },
   {
     "app_id": "breisa-betterlist",
-    "tag_name": "v1.0.4",
+    "tag_name": "v1.0.6",
     "url": "https://github.com/breisa/betterlist/releases/latest/download/betterlist.xdc",
-    "date": "2026-04-24T07:22:34Z",
+    "date": "2026-07-20T17:44:35Z",
     "description": "A better list\nA collaborative list app for tasks, groceries, and more.\nLocalized in many languages.",
     "source_code_url": "https://github.com/breisa/betterlist",
     "name": "BetterList",
     "category": "tool",
-    "cache_relname": "breisa-betterlist-v1.0.4.xdc",
-    "size": 28989,
+    "cache_relname": "breisa-betterlist-v1.0.6.xdc",
+    "size": 21069,
     "icon_relname": "breisa-betterlist-icon.png"
   },
   {
@@ -2039,5 +2013,96 @@
     "cache_relname": "zalexanninev15-nexttools-v1.9.6.xdc",
     "size": 8413114,
     "icon_relname": "zalexanninev15-nexttools-icon.png"
+  },
+  {
+    "app_id": "crate-diggers",
+    "tag_name": "v1.0.0",
+    "url": "https://github.com/audiodude/crate-diggers/releases/latest/download/crate-diggers.xdc",
+    "date": "2026-06-27T14:49:42Z",
+    "description": "Guess friends' music taste\nOne player is the \"digger\" and secretly picks one album from a slate of four;\neveryone else guesses which they chose, scoring points across rounds.",
+    "source_code_url": "https://github.com/audiodude/crate-diggers",
+    "name": "Crate Diggers",
+    "category": "game",
+    "cache_relname": "crate-diggers-v1.0.0.xdc",
+    "size": 1960884,
+    "icon_relname": "crate-diggers-icon.png"
+  },
+  {
+    "app_id": "delta-dots-boxes",
+    "tag_name": "v1.0.0",
+    "url": "https://github.com/MesterMiM/delta-dots-boxes/releases/latest/download/dots-boxes.xdc",
+    "date": "2026-07-04T13:37:19Z",
+    "description": "Dots and Boxes game\nThe classic Dots and Boxes game for Delta Chat.\nPlay with your friends, connect the dots, and claim the boxes!",
+    "source_code_url": "https://github.com/MesterMiM/delta-dots-boxes",
+    "name": "Dots and Boxes game",
+    "category": "game",
+    "cache_relname": "delta-dots-boxes-v1.0.0.xdc",
+    "size": 84679,
+    "icon_relname": "delta-dots-boxes-icon.png"
+  },
+  {
+    "app_id": "delta-tic-tac-toe",
+    "tag_name": "v1.0.0",
+    "url": "https://github.com/MesterMiM/delta-tic-tac-toe/releases/latest/download/xo-game.xdc",
+    "date": "2026-07-02T09:09:29Z",
+    "description": "Play Tic Tac Toe with friends\nA fun and interactive X-O game for Delta Chat.\nIncludes two-step restart and turn locks.",
+    "source_code_url": "https://github.com/mestermim/delta-tic-tac-toe",
+    "name": "Play Tic Tac Toe with friends",
+    "category": "game",
+    "cache_relname": "delta-tic-tac-toe-v1.0.0.xdc",
+    "size": 13486,
+    "icon_relname": "delta-tic-tac-toe-icon.png"
+  },
+  {
+    "app_id": "excalidraw",
+    "tag_name": "v1.1.1",
+    "url": "https://github.com/omidz4t/excalidraw-webxdc/releases/latest/download/excalidraw_v1-1-1.xdc",
+    "date": "2026-07-10T06:21:55Z",
+    "description": "Collaborative whiteboard\nHand-drawn whiteboard based on Excalidraw. Draw together with others:\nstrokes and cursors sync in realtime over peer-to-peer while the app is\nopen, and the full scene stays in sync for everyone who joins later.",
+    "source_code_url": "https://github.com/omidz4t/excalidraw-webxdc",
+    "name": "Excalidraw",
+    "category": "tool",
+    "cache_relname": "excalidraw-v1.1.1.xdc",
+    "size": 635993,
+    "icon_relname": "excalidraw-icon.jpg"
+  },
+  {
+    "app_id": "featherwiki",
+    "tag_name": "1.0",
+    "url": "https://codeberg.org/canteen/featherwiki--webxdc/releases/download/latest/FeatherWiki.xdc",
+    "date": "2026-06-21T18:59:56+02:00",
+    "description": "A wiki for your chat\nA webxdc compatible featherwiki instance.\nAdd and edit pages and everyone in the chat will see them.\nIt will not merge changes made at the same time from different clients.",
+    "source_code_url": "https://codeberg.org/canteen/featherwiki--webxdc",
+    "name": "FeatherWiki",
+    "category": "tool",
+    "cache_relname": "featherwiki-1.0.xdc",
+    "size": 32588,
+    "icon_relname": "featherwiki-icon.png"
+  },
+  {
+    "app_id": "jloima-mirkutin",
+    "tag_name": "v1.0.0",
+    "url": "https://codeberg.org/jloima/mirkutin/releases/download/latest/mirkutin.xdc",
+    "date": "2026-07-03T00:23:35+02:00",
+    "description": "Keep butterflies aloft\nFan butterflies to keep them flying while a rotating lotus windmill and\nfairies stir up the wind. One player, survive 60 seconds to win.",
+    "source_code_url": "https://codeberg.org/jloima/mirkutin",
+    "name": "Mirkutin",
+    "category": "game",
+    "cache_relname": "jloima-mirkutin-v1.0.0.xdc",
+    "size": 282640,
+    "icon_relname": "jloima-mirkutin-icon.png"
+  },
+  {
+    "app_id": "omidz4t-planner",
+    "tag_name": "v2.5.0",
+    "url": "https://github.com/omidz4t/vikunja-webxdc/releases/latest/download/planner-v2.5.0.xdc",
+    "date": "2026-07-22T13:40:04Z",
+    "description": "Collaborative task management\nMulti-peer task and project planner app, forked from Vikunja.",
+    "source_code_url": "https://github.com/omidz4t/vikunja-webxdc",
+    "name": "Planner",
+    "category": "tool",
+    "cache_relname": "omidz4t-planner-v2.5.0.xdc",
+    "size": 791759,
+    "icon_relname": "omidz4t-planner-icon.png"
   }
 ]
